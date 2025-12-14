@@ -176,7 +176,10 @@ def encode_record(record: Dict[str, str], antibiotics: List[str]) -> Dict[str, o
     encoded["num_antibiotics_tested"] = num_tested
     encoded["num_resistant"] = num_resistant
     encoded["MAR_index"] = round(num_resistant / num_tested, 4) if num_tested else ""
-    encoded["MDR_flag"] = 1 if num_resistant >= 3 else 0
+    if num_tested:
+        encoded["MDR_flag"] = 1 if num_resistant >= 3 else 0
+    else:
+        encoded["MDR_flag"] = ""
     return encoded
 
 
@@ -215,9 +218,9 @@ def main() -> None:
     ingested: List[Dict[str, str]] = []
     for file in csv_files:
         ingested.extend(load_records(file))
-    duplicates_removed = len(ingested)
+    ingested_count = len(ingested)
     all_records = deduplicate(ingested)
-    duplicates_removed -= len(all_records)
+    duplicates_removed = ingested_count - len(all_records)
     raw_records = copy.deepcopy(all_records)
 
     antibiotics = sorted(
@@ -254,7 +257,7 @@ def main() -> None:
 
     write_summary(
         "data/processed/preprocessing_summary.txt",
-        total_records=len(raw_records) + duplicates_removed,
+        total_records=ingested_count,
         kept_records=len(processed_records),
         dropped_missing=dropped_missing,
         duplicates_removed=duplicates_removed,
