@@ -1,0 +1,507 @@
+isolate_code,species,region,site,environment,sampling_source,esbl,AM,AMC,AN,C,CF,CFO,CFT,CN,CPD,CPT,CTX,CZA,DO,ENR,FT,GM,IPM,MRB,N,PRA,SXT,TE,AM_binary,AMC_binary,AN_binary,C_binary,CF_binary,CFO_binary,CFT_binary,CN_binary,CPD_binary,CPT_binary,CTX_binary,CZA_binary,DO_binary,ENR_binary,FT_binary,GM_binary,IPM_binary,MRB_binary,N_binary,PRA_binary,SXT_binary,TE_binary,num_antibiotics_tested,num_resistant,MAR_index,MDR_flag
+EC_OLDWR3C1,Escherichia Coli,Region VIII-Eastern Visayas,LOR-LARRAZABAL,Unknown,Unknown,NEG,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,0,0.0,0
+EC_OLDWR3C2,Escherichia Coli,Region VIII-Eastern Visayas,LOR-LARRAZABAL,Unknown,Unknown,NEG,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,0,0.0,0
+EC_OLDWR3C4,Escherichia Coli,Region VIII-Eastern Visayas,LOR-LARRAZABAL,Unknown,Unknown,NEG,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,0,0.0,0
+EC_OLDWR3C7,Escherichia Coli,Region VIII-Eastern Visayas,LOR-LARRAZABAL,Unknown,Unknown,NEG,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,0,0.0,0
+EC_OLDWR3C17,Escherichia Coli,Region VIII-Eastern Visayas,LOR-LARRAZABAL,Unknown,Unknown,NEG,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,0,0.0,0
+SALOLDWR2C2,Escherichia Coli,Region VIII-Eastern Visayas,LOR-LARRAZABAL,Unknown,Unknown,NEG,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,22,1,0.0455,0
+SALOLDWR2C3,Escherichia Coli,Region VIII-Eastern Visayas,LOR-LARRAZABAL,Unknown,Unknown,NEG,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,22,1,0.0455,0
+SALOLDWR3C1,Salmonella Group,Region VIII-Eastern Visayas,LOR-LARRAZABAL,Unknown,Unknown,,2,0,2,0,0,0,0,2,0,0,0,0,0,0,0,2,0,0,0,0,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,22,4,0.1818,1
+SALOLDWR3C7,Salmonella Group,Region VIII-Eastern Visayas,LOR-LARRAZABAL,Unknown,Unknown,,0,0,2,0,2,0,0,2,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,22,4,0.1818,1
+EC_OLRWR1C2,Escherichia Coli,Region VIII-Eastern Visayas,LOR-LARRAZABAL,Unknown,Unknown,NEG,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,0,0.0,0
+EC_OLRWR1C4,Klebsiella Pneumoniae Ssp Pneumoniae,Region VIII-Eastern Visayas,LOR-LARRAZABAL,Unknown,Unknown,NEG,2,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,22,3,0.1364,1
+EC_OLRWR2C6,Escherichia Coli,Region VIII-Eastern Visayas,LOR-LARRAZABAL,Unknown,Unknown,NEG,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,0,0.0,0
+EC_OLRWR2C7,Klebsiella Pneumoniae Ssp Pneumoniae,Region VIII-Eastern Visayas,LOR-LARRAZABAL,Unknown,Unknown,NEG,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,1,0.0455,0
+EC_OLRWR3C3,Escherichia Coli,Region VIII-Eastern Visayas,LOR-LARRAZABAL,Unknown,Unknown,NEG,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,0,0.0,0
+SALOLRWR1C2,Salmonella Group,Region VIII-Eastern Visayas,LOR-LARRAZABAL,Unknown,Unknown,,0,0,2,0,2,0,0,2,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,22,4,0.1818,1
+SALOLRWR2C1,Escherichia Coli,Region VIII-Eastern Visayas,LOR-LARRAZABAL,Unknown,Unknown,NEG,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,22,1,0.0455,0
+SALOLRWR2C2,Escherichia Coli,Region VIII-Eastern Visayas,LOR-LARRAZABAL,Unknown,Unknown,NEG,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,22,1,0.0455,0
+EC_OLFBR1C1,Escherichia Coli,Region VIII-Eastern Visayas,LOR-LARRAZABAL,Unknown,Unknown,NEG,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,0,0.0,0
+EC_OLFBR1C2,Escherichia Coli,Region VIII-Eastern Visayas,LOR-LARRAZABAL,Unknown,Unknown,NEG,2,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,22,3,0.1364,1
+EC_OLFBR1C4,Escherichia Coli,Region VIII-Eastern Visayas,LOR-LARRAZABAL,Unknown,Unknown,NEG,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,0,0.0,0
+EC_OLFBR1C6,Escherichia Coli,Region VIII-Eastern Visayas,LOR-LARRAZABAL,Unknown,Unknown,NEG,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,1,0.0455,0
+EC_OLFBR1C9,Escherichia Coli,Region VIII-Eastern Visayas,LOR-LARRAZABAL,Unknown,Unknown,NEG,2,0,0,2,1,0,0,0,0,0,0,0,2,1,0,0,0,0,0,1,0,2,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,22,4,0.1818,1
+EC_OLFBR1C12,Escherichia Coli,Region VIII-Eastern Visayas,LOR-LARRAZABAL,Unknown,Unknown,NEG,2,0,0,2,1,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,2,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,22,4,0.1818,1
+EC_OLFBR1C15,Escherichia Coli,Region VIII-Eastern Visayas,LOR-LARRAZABAL,Unknown,Unknown,NEG,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,0,0.0,0
+EC_OLFBR2C6,Escherichia Coli,Region VIII-Eastern Visayas,LOR-LARRAZABAL,Unknown,Unknown,NEG,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,0,0.0,0
+EC_OLFBR2C9,Escherichia Coli,Region VIII-Eastern Visayas,LOR-LARRAZABAL,Unknown,Unknown,NEG,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,0,0.0,0
+EC_OLFBR2C12,Escherichia Coli,Region VIII-Eastern Visayas,LOR-LARRAZABAL,Unknown,Unknown,NEG,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,0,0.0,0
+EC_OLFBR2C15,Escherichia Coli,Region VIII-Eastern Visayas,LOR-LARRAZABAL,Unknown,Unknown,NEG,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,0,0.0,0
+EC_OLFBR3C6,Klebsiella Pneumoniae Ssp Pneumoniae,Region VIII-Eastern Visayas,LOR-LARRAZABAL,Unknown,Unknown,NEG,2,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,1,0.0455,0
+EC_OLFBR3C9,Escherichia Coli,Region VIII-Eastern Visayas,LOR-LARRAZABAL,Unknown,Unknown,NEG,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,0,0.0,0
+EC_OLFBR3C10,Escherichia Coli,Region VIII-Eastern Visayas,LOR-LARRAZABAL,Unknown,Unknown,NEG,2,0,0,0,0,0,0,0,0,0,0,0,2,1,1,0,0,0,0,0,2,2,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,22,4,0.1818,1
+EC_OLFBR3C11,Escherichia Coli,Region VIII-Eastern Visayas,LOR-LARRAZABAL,Unknown,Unknown,NEG,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,0,0.0,0
+EC_OLFBR3C13,Klebsiella Pneumoniae Ssp Pneumoniae,Region VIII-Eastern Visayas,LOR-LARRAZABAL,Unknown,Unknown,NEG,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,1,0.0455,0
+EC_OLFBR3C14,Escherichia Coli,Region VIII-Eastern Visayas,LOR-LARRAZABAL,Unknown,Unknown,NEG,0,0,0,0,0,,,,0,,,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,0,,,0,,,0,0,0,0,0,0,0,0,15,0,0.0,0
+EC_OLFBR3C15,Escherichia Coli,Region VIII-Eastern Visayas,LOR-LARRAZABAL,Unknown,Unknown,NEG,0,0,0,0,0,0,,,0,,0,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,0,,0,0,,,0,0,0,0,0,0,0,0,17,0,0.0,0
+SALOLFBR3C5,Salmonella Group,Region VIII-Eastern Visayas,LOR-LARRAZABAL,Unknown,Unknown,,0,0,2,0,2,0,0,2,0,0,0,0,1,0,0,2,0,0,0,0,0,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,22,4,0.1818,1
+SGOLFBR2C1,Escherichia Coli,Region VIII-Eastern Visayas,LOR-LARRAZABAL,Unknown,Unknown,NEG,2,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,22,4,0.1818,1
+SGOLFBR2C2,Escherichia Coli,Region VIII-Eastern Visayas,LOR-LARRAZABAL,Unknown,Unknown,NEG,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,22,2,0.0909,0
+SGOLFBR2C5,Escherichia Coli,Region VIII-Eastern Visayas,LOR-LARRAZABAL,Unknown,Unknown,NEG,2,0,0,0,0,0,0,2,0,0,0,0,2,0,1,0,0,0,0,0,0,2,1,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,22,4,0.1818,1
+VCOLFBR2C1,Enterobacter Cloacae Complex,Region VIII-Eastern Visayas,LOR-LARRAZABAL,Unknown,Unknown,NEG,,2,0,1,2,1,0,2,0,,,0,0,0,0,0,0,0,0,0,0,0,,1,0,0,1,0,0,1,0,,,0,0,0,0,0,0,0,0,0,0,0,19,3,0.1579,1
+EC_OLFGR1C1,Escherichia Coli,Region VIII-Eastern Visayas,LOR-LARRAZABAL,Unknown,Unknown,NEG,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,0,0.0,0
+EC_OLFGR1C2,Escherichia Coli,Region VIII-Eastern Visayas,LOR-LARRAZABAL,Unknown,Unknown,NEG,2,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,22,2,0.0909,0
+EC_OLFGR1C8,Klebsiella Pneumoniae Ssp Pneumoniae,Region VIII-Eastern Visayas,LOR-LARRAZABAL,Unknown,Unknown,NEG,2,0,0,0,0,0,,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,20,1,0.05,0
+EC_OLFGR1C10,Klebsiella Pneumoniae Ssp Pneumoniae,Region VIII-Eastern Visayas,LOR-LARRAZABAL,Unknown,Unknown,NEG,2,0,0,0,0,,,,0,0,,0,,,0,0,0,0,0,0,0,0,1,0,0,0,0,,,,0,0,,0,,,0,0,0,0,0,0,0,0,16,1,0.0625,0
+EC_OLFGR1C14,Escherichia Coli,Region VIII-Eastern Visayas,LOR-LARRAZABAL,Unknown,Unknown,NEG,0,0,0,0,0,,,,0,,0,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,0,,0,0,,,0,0,0,0,0,0,0,0,16,0,0.0,0
+EC_OLFGR2C1,Klebsiella Pneumoniae Ssp Pneumoniae,Region VIII-Eastern Visayas,LOR-LARRAZABAL,Unknown,Unknown,POS,2,0,0,0,2,2,2,2,2,2,,0,,,0,0,0,0,0,0,2,0,1,0,0,0,1,1,1,1,1,1,,0,,,0,0,0,0,0,0,1,0,19,8,0.4211,1
+EC_OLFGR3C1,Escherichia Coli,Region VIII-Eastern Visayas,LOR-LARRAZABAL,Unknown,Unknown,NEG,2,0,0,0,0,0,1,2,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,2,0.0909,0
+EC_OLFGR3C8,Klebsiella Pneumoniae Ssp Pneumoniae,Region VIII-Eastern Visayas,LOR-LARRAZABAL,Unknown,Unknown,NEG,2,0,0,0,0,0,2,2,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,3,0.1364,1
+EC_OADWR1C3,Enterobacter Cloacae Complex,Region VIII-Eastern Visayas,LOR-ALEGRIA,Unknown,Unknown,,,2,0,0,2,0,0,2,0,,0,0,0,1,0,0,1,0,0,1,0,0,,1,0,0,1,0,0,1,0,,0,0,0,0,0,0,0,0,0,0,0,0,20,3,0.15,1
+EC_OADWR1C4,Enterobacter Cloacae Complex,Region VIII-Eastern Visayas,LOR-ALEGRIA,Unknown,Unknown,,,2,0,0,2,0,0,2,0,,0,0,0,1,0,0,1,0,0,1,0,0,,1,0,0,1,0,0,1,0,,0,0,0,0,0,0,0,0,0,0,0,0,20,3,0.15,1
+EC_OADWR1C5,Klebsiella Pneumoniae Ssp Pneumoniae,Region VIII-Eastern Visayas,LOR-ALEGRIA,Unknown,Unknown,NEG,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,1,0.0455,0
+EC_OADWR1C6,Klebsiella Pneumoniae Ssp Pneumoniae,Region VIII-Eastern Visayas,LOR-ALEGRIA,Unknown,Unknown,NEG,2,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,1,0.0455,0
+EC_OADWR1C9,Klebsiella Pneumoniae Ssp Pneumoniae,Region VIII-Eastern Visayas,LOR-ALEGRIA,Unknown,Unknown,NEG,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,1,0.0455,0
+VCOADWR3C17,Vibrio Fluvialis,Region VIII-Eastern Visayas,LOR-ALEGRIA,Unknown,Unknown,NEG,2,1,0,0,,0,2,,,,,,0,0,,0,0,0,,,0,0,1,0,0,0,,0,1,,,,,,0,0,,0,0,0,,,0,0,13,2,0.1538,0
+VCOADWR3C31,Vibrio Fluvialis,Region VIII-Eastern Visayas,LOR-ALEGRIA,Unknown,Unknown,NEG,1,0,0,0,,0,0,,,,,,0,0,,0,0,0,,,0,0,0,0,0,0,,0,0,,,,,,0,0,,0,0,0,,,0,0,13,0,0.0,0
+EC_OARWR1C3,Escherichia Coli,Region VIII-Eastern Visayas,LOR-ALEGRIA,Unknown,Unknown,NEG,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,0,0.0,0
+EC_OARWR1C7,Klebsiella Pneumoniae Ssp Pneumoniae,Region VIII-Eastern Visayas,LOR-ALEGRIA,Unknown,Unknown,NEG,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,1,0.0455,0
+EC_OARWR1C8,Klebsiella Pneumoniae Ssp Pneumoniae,Region VIII-Eastern Visayas,LOR-ALEGRIA,Unknown,Unknown,NEG,2,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,1,0.0455,0
+EC_OARWR1C9,Escherichia Coli,Region VIII-Eastern Visayas,LOR-ALEGRIA,Unknown,Unknown,NEG,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,0,0.0,0
+EC_OARWR1C10,Enterobacter Cloacae Complex,Region VIII-Eastern Visayas,LOR-ALEGRIA,Unknown,Unknown,,,2,0,0,2,0,0,2,0,,0,0,0,0,0,0,0,0,0,0,0,0,,1,0,0,1,0,0,1,0,,0,0,0,0,0,0,0,0,0,0,0,0,20,3,0.15,1
+EC_OARWR2C3,Enterobacter Cloacae Complex,Region VIII-Eastern Visayas,LOR-ALEGRIA,Unknown,Unknown,,,2,0,0,2,0,0,2,0,,0,0,0,0,0,0,0,0,0,0,0,0,,1,0,0,1,0,0,1,0,,0,0,0,0,0,0,0,0,0,0,0,0,20,3,0.15,1
+EC_OARWR2C5,Klebsiella Pneumoniae Ssp Pneumoniae,Region VIII-Eastern Visayas,LOR-ALEGRIA,Unknown,Unknown,NEG,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,1,0.0455,0
+EC_OARWR3C1,Klebsiella Pneumoniae Ssp Pneumoniae,Region VIII-Eastern Visayas,LOR-ALEGRIA,Unknown,Unknown,NEG,2,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,1,0.0455,0
+EC_OARWR3C9,Escherichia Coli,Region VIII-Eastern Visayas,LOR-ALEGRIA,Unknown,Unknown,NEG,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,0,0.0,0
+EC_OARWR3C10,Escherichia Coli,Region VIII-Eastern Visayas,LOR-ALEGRIA,Unknown,Unknown,NEG,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,22,2,0.0909,0
+VCOARWR3C14,Vibrio Fluvialis,Region VIII-Eastern Visayas,LOR-ALEGRIA,Unknown,Unknown,NEG,1,0,0,0,,0,0,,,,,,0,0,,0,0,0,,,0,0,0,0,0,0,,0,0,,,,,,0,0,,0,0,0,,,0,0,13,0,0.0,0
+EC_OAFBR1C11,Klebsiella Pneumoniae Ssp Pneumoniae,Region VIII-Eastern Visayas,LOR-ALEGRIA,Unknown,Unknown,NEG,2,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,1,0.0455,0
+EC_OAFBR1C18,Klebsiella Pneumoniae Ssp Pneumoniae,Region VIII-Eastern Visayas,LOR-ALEGRIA,Unknown,Unknown,NEG,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,1,0.0455,0
+EC_OAFBR2C5,Klebsiella Pneumoniae Ssp Pneumoniae,Region VIII-Eastern Visayas,LOR-ALEGRIA,Unknown,Unknown,NEG,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,1,0.0455,0
+EC_OAFBR2C8,Klebsiella Pneumoniae Ssp Pneumoniae,Region VIII-Eastern Visayas,LOR-ALEGRIA,Unknown,Unknown,NEG,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,1,0.0455,0
+EC_OAFBR2C14,Escherichia Coli,Region VIII-Eastern Visayas,LOR-ALEGRIA,Unknown,Unknown,NEG,2,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,2,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,22,4,0.1818,1
+EC_OAFBR2C15,Klebsiella Pneumoniae Ssp Pneumoniae,Region VIII-Eastern Visayas,LOR-ALEGRIA,Unknown,Unknown,NEG,2,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,1,0.0455,0
+EC_OAFBR3C1,Escherichia Coli,Region VIII-Eastern Visayas,LOR-ALEGRIA,Unknown,Unknown,NEG,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,22,2,0.0909,0
+EC_OAFBR3C2,Klebsiella Pneumoniae Ssp Pneumoniae,Region VIII-Eastern Visayas,LOR-ALEGRIA,Unknown,Unknown,NEG,2,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,1,0.0455,0
+EC_OAFBR3C4,Escherichia Coli,Region VIII-Eastern Visayas,LOR-ALEGRIA,Unknown,Unknown,NEG,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,0,0.0,0
+EC_OAFBR3C6,Escherichia Coli,Region VIII-Eastern Visayas,LOR-ALEGRIA,Unknown,Unknown,NEG,2,0,0,0,0,0,0,2,0,0,0,0,1,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,22,3,0.1364,1
+EC_OAFBR3C7,Escherichia Coli,Region VIII-Eastern Visayas,LOR-ALEGRIA,Unknown,Unknown,NEG,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,0,0.0,0
+EC_OAFBR3C8,Escherichia Coli,Region VIII-Eastern Visayas,LOR-ALEGRIA,Unknown,Unknown,NEG,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,0,0.0,0
+EC_OAFBR3C16,Klebsiella Pneumoniae Ssp Pneumoniae,Region VIII-Eastern Visayas,LOR-ALEGRIA,Unknown,Unknown,NEG,2,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,1,0.0455,0
+EC_OAFBR3C18,Klebsiella Pneumoniae Ssp Pneumoniae,Region VIII-Eastern Visayas,LOR-ALEGRIA,Unknown,Unknown,NEG,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,1,0.0455,0
+EC_OAFGR1C1,Escherichia Coli,Region VIII-Eastern Visayas,LOR-ALEGRIA,Unknown,Unknown,NEG,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,0,0.0,0
+EC_OAFGR1C2,Escherichia Coli,Region VIII-Eastern Visayas,LOR-ALEGRIA,Unknown,Unknown,NEG,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,0,0.0,0
+EC_OAFGR1C6,Escherichia Coli,Region VIII-Eastern Visayas,LOR-ALEGRIA,Unknown,Unknown,NEG,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,22,2,0.0909,0
+EC_OAFGR1C8,Escherichia Coli,Region VIII-Eastern Visayas,LOR-ALEGRIA,Unknown,Unknown,NEG,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,0,0.0,0
+EC_OAFGR1C10,Escherichia Coli,Region VIII-Eastern Visayas,LOR-ALEGRIA,Unknown,Unknown,NEG,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,0,0.0,0
+EC_OAFGR1C11,Escherichia Coli,Region VIII-Eastern Visayas,LOR-ALEGRIA,Unknown,Unknown,NEG,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,0,0.0,0
+EC_OAFGR1C14,Escherichia Coli,Region VIII-Eastern Visayas,LOR-ALEGRIA,Unknown,Unknown,NEG,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,0,0.0,0
+EC_OAFGR1C16,Klebsiella Pneumoniae Ssp Ozaenae,Region VIII-Eastern Visayas,LOR-ALEGRIA,Unknown,Unknown,NEG,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,1,0.0455,0
+EC_OAFGR2C2,Escherichia Coli,Region VIII-Eastern Visayas,LOR-ALEGRIA,Unknown,Unknown,NEG,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,0,0.0,0
+EC_OAFGR2C4,Escherichia Coli,Region VIII-Eastern Visayas,LOR-ALEGRIA,Unknown,Unknown,NEG,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,0,0.0,0
+EC_OAFGR2C5,Escherichia Coli,Region VIII-Eastern Visayas,LOR-ALEGRIA,Unknown,Unknown,NEG,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,22,1,0.0455,0
+EC_OAFGR2C6,Escherichia Coli,Region VIII-Eastern Visayas,LOR-ALEGRIA,Unknown,Unknown,NEG,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,0,0.0,0
+EC_OAFGR2C7,Escherichia Coli,Region VIII-Eastern Visayas,LOR-ALEGRIA,Unknown,Unknown,NEG,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,0,0.0,0
+EC_OAFGR3C1,Escherichia Coli,Region VIII-Eastern Visayas,LOR-ALEGRIA,Unknown,Unknown,NEG,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,0,0.0,0
+EC_OAFGR3C2,Escherichia Coli,Region VIII-Eastern Visayas,LOR-ALEGRIA,Unknown,Unknown,NEG,2,0,0,1,0,0,0,0,0,0,0,0,2,1,2,0,0,0,,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,,0,0,1,21,4,0.1905,1
+EC_OAFGR3C3,Escherichia Coli,Region VIII-Eastern Visayas,LOR-ALEGRIA,Unknown,Unknown,NEG,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,22,2,0.0909,0
+EC_OAFGR3C4,Escherichia Coli,Region VIII-Eastern Visayas,LOR-ALEGRIA,Unknown,Unknown,NEG,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,22,2,0.0909,0
+EC_OAFGR3C6,Escherichia Coli,Region VIII-Eastern Visayas,LOR-ALEGRIA,Unknown,Unknown,NEG,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,0,0.0,0
+EC_OAFGR3C7,Escherichia Coli,Region VIII-Eastern Visayas,LOR-ALEGRIA,Unknown,Unknown,NEG,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,0,0.0,0
+EC_OAFGR3C8,Escherichia Coli,Region VIII-Eastern Visayas,LOR-ALEGRIA,Unknown,Unknown,NEG,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,0,0.0,0
+EC_OAFGR3C9,Escherichia Coli,Region VIII-Eastern Visayas,LOR-ALEGRIA,Unknown,Unknown,NEG,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,0,0.0,0
+EC_OAFGR3C13,Klebsiella Pneumoniae Ssp Pneumoniae,Region VIII-Eastern Visayas,LOR-ALEGRIA,Unknown,Unknown,NEG,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,1,0.0455,0
+EC_OAFGR3C14,Escherichia Coli,Region VIII-Eastern Visayas,LOR-ALEGRIA,Unknown,Unknown,NEG,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,22,2,0.0909,0
+EC_OAFGR3C15,Klebsiella Pneumoniae Ssp Pneumoniae,Region VIII-Eastern Visayas,LOR-ALEGRIA,Unknown,Unknown,NEG,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,1,0.0455,0
+EC_OAFGR3C16,Klebsiella Pneumoniae Ssp Pneumoniae,Region VIII-Eastern Visayas,LOR-ALEGRIA,Unknown,Unknown,NEG,2,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,1,0.0455,0
+EC_MRDWR1C1,Klebsiella Pneumoniae Ssp Pneumoniae,BARMM Region,LOR-GADONGAN,Unknown,Unknown,NEG,2,0,0,2,0,0,0,0,0,0,0,0,2,0,1,1,0,0,0,0,2,2,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,22,5,0.2273,1
+EC_MRDWR1C2,Klebsiella Pneumoniae Ssp Pneumoniae,BARMM Region,LOR-GADONGAN,Unknown,Unknown,NEG,2,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,22,3,0.1364,1
+EC_MRDWR3C14,Klebsiella Pneumoniae Ssp Pneumoniae,BARMM Region,LOR-GADONGAN,Unknown,Unknown,NEG,2,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,1,0.0455,0
+VC_MRDWR1C1,Klebsiella Pneumoniae Ssp Pneumoniae,BARMM Region,LOR-GADONGAN,Unknown,Unknown,NEG,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,1,0.0455,0
+VC_MRDWR2C2,Enterobacter Cloacae Complex,BARMM Region,LOR-GADONGAN,Unknown,Unknown,,,2,0,0,2,0,0,2,0,,0,0,0,0,1,0,0,0,,0,0,0,,1,0,0,1,0,0,1,0,,0,0,0,0,0,0,0,0,,0,0,0,19,3,0.1579,1
+EC_MRLWR1C3,Escherichia Coli,BARMM Region,LOR-GADONGAN,Unknown,Unknown,NEG,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,22,2,0.0909,0
+EC_MRLWR1C4,Escherichia Coli,BARMM Region,LOR-GADONGAN,Unknown,Unknown,NEG,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,0,0.0,0
+EC_MRLWR1C6,Klebsiella Pneumoniae Ssp Pneumoniae,BARMM Region,LOR-GADONGAN,Unknown,Unknown,NEG,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,1,0.0455,0
+EC_MRLWR1C9,Klebsiella Pneumoniae Ssp Pneumoniae,BARMM Region,LOR-GADONGAN,Unknown,Unknown,NEG,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,1,0.0455,0
+EC_MRLWR1C10,Escherichia Coli,BARMM Region,LOR-GADONGAN,Unknown,Unknown,NEG,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,0,0.0,0
+EC_MRLWR1C11,Klebsiella Pneumoniae Ssp Pneumoniae,BARMM Region,LOR-GADONGAN,Unknown,Unknown,NEG,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,1,0.0455,0
+EC_MRLWR1C13,Klebsiella Pneumoniae Ssp Pneumoniae,BARMM Region,LOR-GADONGAN,Unknown,Unknown,NEG,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,1,0.0455,0
+EC_MRLWR1C16,Klebsiella Pneumoniae Ssp Pneumoniae,BARMM Region,LOR-GADONGAN,Unknown,Unknown,NEG,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,1,0.0455,0
+EC_MRLWR1C20,Klebsiella Pneumoniae Ssp Pneumoniae,BARMM Region,LOR-GADONGAN,Unknown,Unknown,NEG,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,1,0.0455,0
+EC_MRLWR2C1,Escherichia Coli,BARMM Region,LOR-GADONGAN,Unknown,Unknown,NEG,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,0,0.0,0
+EC_MRLWR2C3,Escherichia Coli,BARMM Region,LOR-GADONGAN,Unknown,Unknown,NEG,2,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,22,2,0.0909,0
+EC_MRLWR2C7,Escherichia Coli,BARMM Region,LOR-GADONGAN,Unknown,Unknown,NEG,2,2,0,0,2,0,0,0,0,,,,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0,,,,0,0,0,0,0,0,0,0,0,0,19,3,0.1579,1
+EC_MRLWR2C10,Escherichia Coli,BARMM Region,LOR-GADONGAN,Unknown,Unknown,NEG,2,0,0,1,1,0,0,0,0,0,0,0,2,1,0,0,0,1,0,0,2,2,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,22,4,0.1818,1
+EC_MRLWR2C11,Klebsiella Pneumoniae Ssp Pneumoniae,BARMM Region,LOR-GADONGAN,Unknown,Unknown,NEG,2,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,1,0.0455,0
+EC_MRLWR2C17,Klebsiella Pneumoniae Ssp Pneumoniae,BARMM Region,LOR-GADONGAN,Unknown,Unknown,NEG,2,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,1,0.0455,0
+EC_MRLWR3C12,Klebsiella Pneumoniae Ssp Pneumoniae,BARMM Region,LOR-GADONGAN,Unknown,Unknown,NEG,2,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,1,0.0455,0
+EC_MRLWR3C16,Escherichia Coli,BARMM Region,LOR-GADONGAN,Unknown,Unknown,NEG,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,0,0.0,0
+EC_MRLWR3C17,Escherichia Coli,BARMM Region,LOR-GADONGAN,Unknown,Unknown,NEG,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,22,2,0.0909,0
+EC_MRLWR3C20,Escherichia Coli,BARMM Region,LOR-GADONGAN,Unknown,Unknown,NEG,2,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,22,3,0.1364,1
+VC_MRLWR1C3,Vibrio Cholerae,BARMM Region,LOR-GADONGAN,Unknown,Unknown,,2,0,0,0,,0,0,,,,,,0,0,,0,0,0,,,0,0,1,0,0,0,,0,0,,,,,,0,0,,0,0,0,,,0,0,13,1,0.0769,0
+VC_MRLWR1C6,Vibrio Cholerae,BARMM Region,LOR-GADONGAN,Unknown,Unknown,,2,0,0,0,,0,0,,,,,,0,0,,0,0,0,,,0,0,1,0,0,0,,0,0,,,,,,0,0,,0,0,0,,,0,0,13,1,0.0769,0
+VC_MRLWR1C7,Vibrio Cholerae,BARMM Region,LOR-GADONGAN,Unknown,Unknown,,2,1,0,0,,0,2,,,,,,0,0,,0,0,0,,,0,0,1,0,0,0,,0,1,,,,,,0,0,,0,0,0,,,0,0,13,2,0.1538,0
+VC_MRLWR1C12,Vibrio Fluvialis,BARMM Region,LOR-GADONGAN,Unknown,Unknown,,2,0,0,0,,0,0,,,,,,0,0,,0,0,0,,,0,0,1,0,0,0,,0,0,,,,,,0,0,,0,0,0,,,0,0,13,1,0.0769,0
+VC_MRLWR1C15,Vibrio Fluvialis,BARMM Region,LOR-GADONGAN,Unknown,Unknown,,2,0,0,0,,0,0,,,,,,0,0,,0,0,0,,,0,0,1,0,0,0,,0,0,,,,,,0,0,,0,0,0,,,0,0,13,1,0.0769,0
+VC_MRLWR2C2,Vibrio Fluvialis,BARMM Region,LOR-GADONGAN,Unknown,Unknown,,2,0,0,0,,0,1,,,,,,0,0,,0,0,0,,,0,0,1,0,0,0,,0,0,,,,,,0,0,,0,0,0,,,0,0,13,1,0.0769,0
+VC_MRLWR2C8,Vibrio Cholerae,BARMM Region,LOR-GADONGAN,Unknown,Unknown,,2,0,0,0,,0,0,,,,,,0,0,,0,0,0,,,0,0,1,0,0,0,,0,0,,,,,,0,0,,0,0,0,,,0,0,13,1,0.0769,0
+VC_MRLWR3C5,Enterobacter Cloacae Complex,BARMM Region,LOR-GADONGAN,Unknown,Unknown,,,2,0,0,2,0,0,2,0,,0,0,0,0,0,0,0,0,0,0,0,0,,1,0,0,1,0,0,1,0,,0,0,0,0,0,0,0,0,0,0,0,0,20,3,0.15,1
+VC_MRLWR3C10,Vibrio Fluvialis,BARMM Region,LOR-GADONGAN,Unknown,Unknown,,2,1,0,0,,0,0,,,,,,0,0,,0,2,0,,,0,0,1,0,0,0,,0,0,,,,,,0,0,,0,1,0,,,0,0,13,2,0.1538,0
+EC_MRFTR1C2,Escherichia Coli,BARMM Region,LOR-GADONGAN,Unknown,Unknown,NEG,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,0,0.0,0
+EC_MRFTR1C4,Klebsiella Pneumoniae Ssp Pneumoniae,BARMM Region,LOR-GADONGAN,Unknown,Unknown,NEG,2,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,1,0.0455,0
+EC_MRFTR1C9,Klebsiella Pneumoniae Ssp Pneumoniae,BARMM Region,LOR-GADONGAN,Unknown,Unknown,NEG,2,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,1,0.0455,0
+EC_MRFTR1C10,Klebsiella Pneumoniae Ssp Pneumoniae,BARMM Region,LOR-GADONGAN,Unknown,Unknown,NEG,2,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,1,0.0455,0
+EC_MRFTR2C3,Klebsiella Pneumoniae Ssp Pneumoniae,BARMM Region,LOR-GADONGAN,Unknown,Unknown,NEG,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,1,0.0455,0
+EC_MRFTR2C5,Klebsiella Pneumoniae Ssp Pneumoniae,BARMM Region,LOR-GADONGAN,Unknown,Unknown,NEG,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,1,0.0455,0
+EC_MRFTR2C6,Escherichia Coli,BARMM Region,LOR-GADONGAN,Unknown,Unknown,NEG,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,0,0.0,0
+EC_MRFTR2C7,Escherichia Coli,BARMM Region,LOR-GADONGAN,Unknown,Unknown,NEG,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,0,0.0,0
+EC_MRFTR2C8,Escherichia Coli,BARMM Region,LOR-GADONGAN,Unknown,Unknown,NEG,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,0,0.0,0
+EC_MRFTR2C10,Escherichia Coli,BARMM Region,LOR-GADONGAN,Unknown,Unknown,NEG,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,0,0.0,0
+EC_MRFTR3C1,Escherichia Coli,BARMM Region,LOR-GADONGAN,Unknown,Unknown,NEG,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,0,0.0,0
+EC_MRFTR3C2,Klebsiella Pneumoniae Ssp Pneumoniae,BARMM Region,LOR-GADONGAN,Unknown,Unknown,NEG,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,0,0.0,0
+EC_MRFTR3C3,Escherichia Coli,BARMM Region,LOR-GADONGAN,Unknown,Unknown,NEG,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,0,0.0,0
+EC_MRFTR3C4,Klebsiella Pneumoniae Spp Ozaenae,BARMM Region,LOR-GADONGAN,Unknown,Unknown,NEG,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,1,0.0455,0
+EC_MRFTR3C5,Escherichia Coli,BARMM Region,LOR-GADONGAN,Unknown,Unknown,NEG,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,0,0.0,0
+EC_MRFTR3C6,Escherichia Coli,BARMM Region,LOR-GADONGAN,Unknown,Unknown,NEG,2,2,0,0,2,0,0,2,0,,,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,1,0,,,0,0,0,0,0,0,0,0,0,0,0,20,4,0.2,1
+EC_MRFTR3C8,Escherichia Coli,BARMM Region,LOR-GADONGAN,Unknown,Unknown,NEG,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,1,0.0455,0
+EC_MRFTR3C11,Klebsiella Pneumoniae Ssp Pneumoniae,BARMM Region,LOR-GADONGAN,Unknown,Unknown,NEG,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,1,0.0455,0
+SG_MRFTR1C2,Enterobacter Aerogenes,BARMM Region,LOR-GADONGAN,Unknown,Unknown,,,2,0,0,2,0,0,2,0,0,0,0,2,0,1,0,1,0,0,0,0,2,,1,0,0,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,21,5,0.2381,1
+VC_MRFTR1C2,Escherichia Coli,BARMM Region,LOR-GADONGAN,Unknown,Unknown,NEG,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,22,2,0.0909,0
+VC_MRFTR3C1,Escherichia Coli,BARMM Region,LOR-GADONGAN,Unknown,Unknown,NEG,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,0,0.0,0
+EC_MRFKR1C3,Escherichia Coli,BARMM Region,LOR-GADONGAN,Unknown,Unknown,NEG,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,1,0.0455,0
+EC_MRFKR1C5,Klebsiella Pneumoniae Ssp Pneumoniae,BARMM Region,LOR-GADONGAN,Unknown,Unknown,NEG,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,1,0.0455,0
+EC_MRFKR2C1,Escherichia Coli,BARMM Region,LOR-GADONGAN,Unknown,Unknown,NEG,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,0,0.0,0
+EC_MRFKR2C2,Klebsiella Pneumoniae Ssp Pneumoniae,BARMM Region,LOR-GADONGAN,Unknown,Unknown,NEG,2,2,0,0,2,2,2,2,2,,,,2,1,1,0,2,0,0,0,2,2,1,1,0,0,1,1,1,1,1,,,,1,0,0,0,1,0,0,0,1,1,19,11,0.5789,1
+EC_MRFKR2C5,Klebsiella Pneumoniae Ssp Pneumoniae,BARMM Region,LOR-GADONGAN,Unknown,Unknown,NEG,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,1,0.0455,0
+EC_MRFKR2C7,Escherichia Coli,BARMM Region,LOR-GADONGAN,Unknown,Unknown,NEG,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,22,2,0.0909,0
+EC_MRFKR3C3,Escherichia Coli,BARMM Region,LOR-GADONGAN,Unknown,Unknown,NEG,2,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,22,3,0.1364,1
+EC_MRFKR3C6,Klebsiella Pneumoniae Ssp Pneumoniae,BARMM Region,LOR-GADONGAN,Unknown,Unknown,NEG,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,1,0.0455,0
+EC_MRFKR3C7,Escherichia Coli,BARMM Region,LOR-GADONGAN,Unknown,Unknown,NEG,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,1,0.0455,0
+EC_MRFKR3C9,Klebsiella Pneumoniae Ssp Pneumoniae,BARMM Region,LOR-GADONGAN,Unknown,Unknown,NEG,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,1,0.0455,0
+VC_MRFKR1C3,Klebsiella Pneumoniae Ssp Pneumoniae,BARMM Region,LOR-GADONGAN,Unknown,Unknown,NEG,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,1,0.0455,0
+VC_MRFKR2C5,Klebsiella Pneumoniae Ssp Pneumoniae,BARMM Region,LOR-GADONGAN,Unknown,Unknown,NEG,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,1,0.0455,0
+VC_MRFKR3C2,Enterobacter Cloacae Complex,BARMM Region,LOR-GADONGAN,Unknown,Unknown,,,2,0,1,2,0,0,2,0,,0,,0,0,1,0,0,0,0,0,0,0,,1,0,0,1,0,0,1,0,,0,,0,0,0,0,0,0,0,0,0,0,19,3,0.1579,1
+EC_MDDWR1C1,Klebsiella Pneumoniae Ssp Pneumoniae,BARMM Region,LOR-DAYAWAN,Unknown,Unknown,NEG,2,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,1,0.0455,0
+EC_MDDWR1C2,Klebsiella Pneumoniae Ssp Pneumoniae,BARMM Region,LOR-DAYAWAN,Unknown,Unknown,NEG,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,1,0.0455,0
+EC_MDDWR2C3,Klebsiella Pneumoniae Ssp Pneumoniae,BARMM Region,LOR-DAYAWAN,Unknown,Unknown,NEG,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,1,0.0455,0
+SAL_MDDWR2C1,Klebsiella Pneumoniae Ssp Pneumoniae,BARMM Region,LOR-DAYAWAN,Unknown,Unknown,NEG,2,0,0,0,2,2,2,2,2,,,,2,1,2,0,0,0,0,0,0,2,1,0,0,0,1,1,1,1,1,,,,1,0,1,0,0,0,0,0,0,1,19,9,0.4737,1
+SAL_MDDWR2C2,Escherichia Coli,BARMM Region,LOR-DAYAWAN,Unknown,Unknown,NEG,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,0,0.0,0
+EC_MDLWR1C1,Enterobacter Cloacae Complex,BARMM Region,LOR-DAYAWAN,Unknown,Unknown,,,0,0,0,0,0,0,0,0,,0,,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,,0,,0,0,0,0,0,0,0,0,0,0,19,0,0.0,0
+EC_MDLWR1C6,Klebsiella Pneumoniae Ssp Pneumoniae,BARMM Region,LOR-DAYAWAN,Unknown,Unknown,NEG,2,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,1,0.0455,0
+EC_MDLWR1C12,Enterobacter Cloacae Complex,BARMM Region,LOR-DAYAWAN,Unknown,Unknown,,,2,0,0,2,2,0,2,0,,,0,0,0,1,0,0,0,0,0,0,0,,1,0,0,1,1,0,1,0,,,0,0,0,0,0,0,0,0,0,0,0,19,4,0.2105,1
+EC_MDLWR2C4,Enterobacter Cloacae Complex,BARMM Region,LOR-DAYAWAN,Unknown,Unknown,,,2,0,0,2,0,0,2,0,,0,0,0,0,1,0,0,0,0,0,0,0,,1,0,0,1,0,0,1,0,,0,0,0,0,0,0,0,0,0,0,0,0,20,3,0.15,1
+EC_MDLWR2C8,Klebsiella Pneumoniae Ssp Pneumoniae,BARMM Region,LOR-DAYAWAN,Unknown,Unknown,NEG,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,1,0.0455,0
+EC_MDLWR2C9,Klebsiella Pneumoniae Ssp Pneumoniae,BARMM Region,LOR-DAYAWAN,Unknown,Unknown,NEG,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,1,0.0455,0
+EC_MDLWR2C12,Enterobacter Cloacae Complex,BARMM Region,LOR-DAYAWAN,Unknown,Unknown,,,2,0,0,2,0,0,2,0,,0,0,0,0,0,0,0,0,,0,0,0,,1,0,0,1,0,0,1,0,,0,0,0,0,0,0,0,0,,0,0,0,19,3,0.1579,1
+EC_MDFTR1C2,Escherichia Coli,BARMM Region,LOR-DAYAWAN,Unknown,Unknown,NEG,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,1,0.0455,0
+EC_MDFTR1C4,Escherichia Coli,BARMM Region,LOR-DAYAWAN,Unknown,Unknown,NEG,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,22,1,0.0455,0
+EC_MDFTR1C7,Escherichia Coli,BARMM Region,LOR-DAYAWAN,Unknown,Unknown,NEG,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,0,0.0,0
+EC_MDFTR1C8,Enterobacter Cloacae Complex,BARMM Region,LOR-DAYAWAN,Unknown,Unknown,,,0,0,0,2,0,0,2,0,,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,1,0,0,1,0,,0,0,0,0,0,0,0,0,0,0,0,0,20,2,0.1,0
+EC_MDFTR1C9,Escherichia Coli,BARMM Region,LOR-DAYAWAN,Unknown,Unknown,NEG,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,0,0.0,0
+EC_MDFTR1C11,Escherichia Coli,BARMM Region,LOR-DAYAWAN,Unknown,Unknown,NEG,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,22,2,0.0909,0
+EC_MDFTR1C13,Enterobacter Cloacae Complex,BARMM Region,LOR-DAYAWAN,Unknown,Unknown,,,2,0,0,2,0,1,2,0,,0,0,2,0,0,0,0,0,0,0,0,0,,1,0,0,1,0,0,1,0,,0,0,1,0,0,0,0,0,0,0,0,0,20,4,0.2,1
+EC_MDFTR1C15,Escherichia Coli,BARMM Region,LOR-DAYAWAN,Unknown,Unknown,NEG,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,0,0.0,0
+EC_MDFTR1C16,Escherichia Coli,BARMM Region,LOR-DAYAWAN,Unknown,Unknown,NEG,2,0,0,0,2,1,1,2,0,,,0,2,0,0,0,0,0,0,1,2,1,1,0,0,0,1,0,0,1,0,,,0,1,0,0,0,0,0,0,0,1,0,20,5,0.25,1
+EC_MDFTR1C17,Escherichia Coli,BARMM Region,LOR-DAYAWAN,Unknown,Unknown,NEG,2,0,0,2,2,0,0,2,0,,,,2,0,0,0,0,0,0,0,2,0,1,0,0,1,1,0,0,1,0,,,,1,0,0,0,0,0,0,0,1,0,19,6,0.3158,1
+EC_MDFTR1C18,Escherichia Coli,BARMM Region,LOR-DAYAWAN,Unknown,Unknown,NEG,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,0,0.0,0
+EC_MDFTR2C3,Escherichia Coli,BARMM Region,LOR-DAYAWAN,Unknown,Unknown,NEG,2,0,0,0,2,2,2,2,1,,,,0,0,0,0,2,0,0,0,0,0,1,0,0,0,1,1,1,1,0,,,,0,0,0,0,1,0,0,0,0,0,19,6,0.3158,1
+EC_MDFTR2C6,Escherichia Coli,BARMM Region,LOR-DAYAWAN,Unknown,Unknown,NEG,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,0,0.0,0
+EC_MDFTR2C7,Escherichia Coli,BARMM Region,LOR-DAYAWAN,Unknown,Unknown,NEG,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,0,0.0,0
+EC_MDFTR2C8,Escherichia Coli,BARMM Region,LOR-DAYAWAN,Unknown,Unknown,NEG,2,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,22,2,0.0909,0
+EC_MDFTR2C10,Escherichia Coli,BARMM Region,LOR-DAYAWAN,Unknown,Unknown,NEG,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,0,0.0,0
+EC_MDFTR2C14,Enterobacter Aerogenes,BARMM Region,LOR-DAYAWAN,Unknown,Unknown,,,0,0,0,2,0,0,2,0,0,0,0,2,1,0,0,0,0,0,0,0,2,,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,21,4,0.1905,1
+EC_MDFTR2C15,Escherichia Coli,BARMM Region,LOR-DAYAWAN,Unknown,Unknown,,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,1,0.0455,0
+EC_MDFTR2C16,Enterobacter Aerogenes,BARMM Region,LOR-DAYAWAN,Unknown,Unknown,,,0,0,2,2,2,1,2,1,,,0,2,1,0,0,0,0,0,0,2,1,,0,0,1,1,1,0,1,0,,,0,1,0,0,0,0,0,0,0,1,0,19,6,0.3158,1
+EC_MDFTR3C1,Escherichia Coli,BARMM Region,LOR-DAYAWAN,Unknown,Unknown,NEG,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,0,0.0,0
+EC_MDFTR3C8,Klebsiella Pneumoniae Ssp Pneumoniae,BARMM Region,LOR-DAYAWAN,Unknown,Unknown,NEG,2,0,0,0,2,0,0,2,0,0,0,0,2,1,0,0,0,0,0,1,2,2,1,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,1,1,22,6,0.2727,1
+EC_MDFTR3C10,Klebsiella Pneumoniae Ssp Pneumoniae,BARMM Region,LOR-DAYAWAN,Unknown,Unknown,NEG,2,0,0,0,0,0,0,0,0,0,0,0,2,1,1,0,0,0,0,1,2,2,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,22,4,0.1818,1
+EC_MDFTR3C16,Klebsiella Pneumoniae Ssp Pneumoniae,BARMM Region,LOR-DAYAWAN,Unknown,Unknown,NEG,2,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,2,0.0909,0
+EC_MDFTR3C17,Escherichia Coli,BARMM Region,LOR-DAYAWAN,Unknown,Unknown,NEG,2,0,0,2,2,1,1,2,0,,,,2,0,0,0,0,0,0,0,2,2,1,0,0,1,1,0,0,1,0,,,,1,0,0,0,0,0,0,0,1,1,19,7,0.3684,1
+EC_MDFTR3C18,Escherichia Coli,BARMM Region,LOR-DAYAWAN,Unknown,Unknown,NEG,2,0,0,2,0,0,0,2,0,0,0,0,2,0,0,0,0,0,0,0,2,2,1,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,1,1,22,6,0.2727,1
+SAL_MDFTR2C1,Salmonella Enterica Spp Diarizonae,BARMM Region,LOR-DAYAWAN,Unknown,Unknown,,2,0,2,2,2,1,1,2,0,,,0,0,1,0,2,0,0,0,1,0,0,1,0,1,1,1,0,0,1,0,,,0,0,0,0,1,0,0,0,0,0,0,20,6,0.3,1
+SAL_MDFTR2C5,Salmonella Enterica Spp Diarizonae,BARMM Region,LOR-DAYAWAN,Unknown,Unknown,,2,0,2,1,2,1,1,2,0,,,0,0,1,0,2,0,0,0,0,0,0,1,0,1,0,1,0,0,1,0,,,0,0,0,0,1,0,0,0,0,0,0,20,5,0.25,1
+SAL_MDFTR3C6,Escherichia Coli,BARMM Region,LOR-DAYAWAN,Unknown,Unknown,POS,2,0,0,0,2,2,2,2,1,2,,0,2,2,0,0,0,2,1,2,2,2,1,0,0,0,1,1,1,1,0,1,,0,1,1,0,0,0,1,0,1,1,1,21,12,0.5714,1
+VC_MDFTR1C1,Escherichia Coli,BARMM Region,LOR-DAYAWAN,Unknown,Unknown,NEG,2,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,22,2,0.0909,0
+VC_MDFTR3C1,Klebsiella Pneumoniae Ssp Pneumoniae,BARMM Region,LOR-DAYAWAN,Unknown,Unknown,NEG,2,0,0,2,2,1,0,2,0,0,,0,2,1,0,0,0,0,0,0,2,2,1,0,0,1,1,0,0,1,0,0,,0,1,0,0,0,0,0,0,0,1,1,21,7,0.3333,1
+VC_MDFTR3C4,Escherichia Coli,BARMM Region,LOR-DAYAWAN,Unknown,Unknown,NEG,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,0,0.0,0
+EC_MDFKR1C3,Klebsiella Pneumoniae Ssp Pneumoniae,BARMM Region,LOR-DAYAWAN,Unknown,Unknown,NEG,2,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,1,0.0455,0
+EC_MDFKR1C4,Klebsiella Pneumoniae Ssp Pneumoniae,BARMM Region,LOR-DAYAWAN,Unknown,Unknown,NEG,2,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,1,0.0455,0
+EC_MDFKR2C1,Escherichia Coli,BARMM Region,LOR-DAYAWAN,Unknown,Unknown,NEG,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,0,0.0,0
+EC_MDFKR2C4,Klebsiella Pneumoniae Ssp Pneumoniae,BARMM Region,LOR-DAYAWAN,Unknown,Unknown,NEG,2,0,0,0,0,0,0,0,0,0,,0,2,1,0,0,0,0,0,1,0,2,1,0,0,0,0,0,0,0,0,0,,0,1,0,0,0,0,0,0,0,0,1,21,3,0.1429,1
+EC_MDFKR2C6,Klebsiella Pneumoniae Ssp Pneumoniae,BARMM Region,LOR-DAYAWAN,Unknown,Unknown,NEG,2,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,22,2,0.0909,0
+EC_MDFKR3C1,Klebsiella Pneumoniae Ssp Pneumoniae,BARMM Region,LOR-DAYAWAN,Unknown,Unknown,NEG,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,1,0.0455,0
+EC_MDFKR3C2,Klebsiella Pneumoniae Ssp Pneumoniae,BARMM Region,LOR-DAYAWAN,Unknown,Unknown,NEG,2,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,1,0.0455,0
+EC_MDFKR3C4,Escherichia Coli,BARMM Region,LOR-DAYAWAN,Unknown,Unknown,NEG,2,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,2,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,22,4,0.1818,1
+EC_MDFKR3C5,Escherichia Coli,BARMM Region,LOR-DAYAWAN,Unknown,Unknown,NEG,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,22,1,0.0455,0
+SAL_MDFKR3C4,Escherichia Coli,BARMM Region,LOR-DAYAWAN,Unknown,Unknown,NEG,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,0,0.0,0
+VC_MDFKR1C1,Escherichia Coli,BARMM Region,LOR-DAYAWAN,Unknown,Unknown,NEG,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,22,1,0.0455,0
+EC_PRDWR1C1,Enterobacter Cloacae Complex,Region III-Central Luzon,LOR-SAN ROQUE,Unknown,Unknown,,,2,0,0,2,0,1,2,0,,0,0,0,0,1,0,0,0,0,0,0,0,,1,0,0,1,0,0,1,0,,0,0,0,0,0,0,0,0,0,0,0,0,20,3,0.15,1
+EC_PRDWR1C6,Klebsiella Pneumoniae Ssp Pneumoniae,Region III-Central Luzon,LOR-SAN ROQUE,Unknown,Unknown,NEG,2,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,1,0.0455,0
+EC_PRDWR1C9,Enterobacter Cloacae Complex,Region III-Central Luzon,LOR-SAN ROQUE,Unknown,Unknown,,,2,0,0,2,0,0,2,0,,0,0,0,0,1,0,0,0,0,0,0,0,,1,0,0,1,0,0,1,0,,0,0,0,0,0,0,0,0,0,0,0,0,20,3,0.15,1
+EC_PRDWR2C6,Enterobacter Cloacae Complex,Region III-Central Luzon,LOR-SAN ROQUE,Unknown,Unknown,,,2,0,0,2,0,0,2,0,,0,0,0,0,1,0,0,0,0,0,0,0,,1,0,0,1,0,0,1,0,,0,0,0,0,0,0,0,0,0,0,0,0,20,3,0.15,1
+EC_PRDWR3C3,Enterobacter Cloacae Complex,Region III-Central Luzon,LOR-SAN ROQUE,Unknown,Unknown,,,2,0,0,2,0,0,2,0,,0,0,0,0,1,0,0,0,0,0,0,0,,1,0,0,1,0,0,1,0,,0,0,0,0,0,0,0,0,0,0,0,0,20,3,0.15,1
+EC_PRDWR3C5,Enterobacter Cloacae Complex,Region III-Central Luzon,LOR-SAN ROQUE,Unknown,Unknown,,,2,0,0,2,0,0,2,0,,0,0,0,0,0,0,0,0,0,0,0,0,,1,0,0,1,0,0,1,0,,0,0,0,0,0,0,0,0,0,0,0,0,20,3,0.15,1
+EC_PRDWR3C9,Enterobacter Cloacae Complex,Region III-Central Luzon,LOR-SAN ROQUE,Unknown,Unknown,,,2,0,0,2,0,0,2,0,,0,0,0,0,0,0,0,0,0,0,0,0,,1,0,0,1,0,0,1,0,,0,0,0,0,0,0,0,0,0,0,0,0,20,3,0.15,1
+EC_PRDWR3C10,Enterobacter Cloacae Complex,Region III-Central Luzon,LOR-SAN ROQUE,Unknown,Unknown,,,2,0,0,2,0,0,2,0,,0,0,0,0,1,0,0,0,0,0,0,0,,1,0,0,1,0,0,1,0,,0,0,0,0,0,0,0,0,0,0,0,0,20,3,0.15,1
+EC_PRRWR1C2,Enterobacter Cloacae Complex,Region III-Central Luzon,LOR-SAN ROQUE,Unknown,Unknown,,,2,0,0,2,0,0,2,0,,0,0,0,0,0,0,0,0,0,0,0,0,,1,0,0,1,0,0,1,0,,0,0,0,0,0,0,0,0,0,0,0,0,20,3,0.15,1
+EC_PRRWR1C5,Klebsiella Pneumoniae Ssp Pneumoniae,Region III-Central Luzon,LOR-SAN ROQUE,Unknown,Unknown,NEG,2,0,0,2,0,0,0,0,0,0,0,0,2,1,0,0,0,0,1,1,2,2,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,22,5,0.2273,1
+EC_PRRWR1C10,Klebsiella Pneumoniae Ssp Pneumoniae,Region III-Central Luzon,LOR-SAN ROQUE,Unknown,Unknown,NEG,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,1,0.0455,0
+EC_PRRWR2C4,Klebsiella Pneumoniae Ssp Pneumoniae,Region III-Central Luzon,LOR-SAN ROQUE,Unknown,Unknown,NEG,2,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,1,0.0455,0
+EC_PRRWR2C9,Klebsiella Pneumoniae Ssp Pneumoniae,Region III-Central Luzon,LOR-SAN ROQUE,Unknown,Unknown,NEG,2,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,1,1,2,2,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,22,5,0.2273,1
+EC_PRRWR3C1,Enterobacter Cloacae Complex,Region III-Central Luzon,LOR-SAN ROQUE,Unknown,Unknown,,,2,0,0,2,0,0,2,0,,0,0,0,0,0,0,0,0,0,0,0,0,,1,0,0,1,0,0,1,0,,0,0,0,0,0,0,0,0,0,0,0,0,20,3,0.15,1
+EC_PRRWR3C4,Enterobacter Cloacae Complex,Region III-Central Luzon,LOR-SAN ROQUE,Unknown,Unknown,,,2,0,0,2,0,1,2,0,,0,0,0,0,0,0,0,0,0,0,0,0,,1,0,0,1,0,0,1,0,,0,0,0,0,0,0,0,0,0,0,0,0,20,3,0.15,1
+EC_PRRWR3C9,Escherichia Coli,Region III-Central Luzon,LOR-SAN ROQUE,Unknown,Unknown,NEG,2,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,2,0.0909,0
+EC_PRFTR1C2,Escherichia Coli,Region III-Central Luzon,LOR-SAN ROQUE,Unknown,Unknown,NEG,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,0,0.0,0
+EC_PRFTR1C10,Escherichia Coli,Region III-Central Luzon,LOR-SAN ROQUE,Unknown,Unknown,NEG,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,0,0.0,0
+EC_PRFTR1C16,Enterobacter Aerogenes,Region III-Central Luzon,LOR-SAN ROQUE,Unknown,Unknown,,,2,0,0,2,1,0,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21,3,0.1429,1
+EC_PRFTR1C17,Enterobacter Cloacae Complex,Region III-Central Luzon,LOR-SAN ROQUE,Unknown,Unknown,,,2,0,0,2,0,0,2,0,,0,0,0,0,1,0,0,0,0,0,0,0,,1,0,0,1,0,0,1,0,,0,0,0,0,0,0,0,0,0,0,0,0,20,3,0.15,1
+EC_PRFTR2C5,Enterobacter Aerogenes,Region III-Central Luzon,LOR-SAN ROQUE,Unknown,Unknown,,,2,0,0,2,1,0,2,0,0,0,0,0,1,1,0,0,0,0,0,0,0,,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21,3,0.1429,1
+EC_PRFTR2C7,Escherichia Coli,Region III-Central Luzon,LOR-SAN ROQUE,Unknown,Unknown,NEG,2,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,2,0.0909,0
+EC_PRFTR2C18,Enterobacter Aerogenes,Region III-Central Luzon,LOR-SAN ROQUE,Unknown,Unknown,,,2,0,0,2,0,0,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21,3,0.1429,1
+EC_PRFTR3C5,Enterobacter Cloacae Complex,Region III-Central Luzon,LOR-SAN ROQUE,Unknown,Unknown,,,2,0,0,2,0,0,2,0,,0,0,0,0,1,0,0,0,0,0,0,0,,1,0,0,1,0,0,1,0,,0,0,0,0,0,0,0,0,0,0,0,0,20,3,0.15,1
+EC_PRFGR1C1,Enterobacter Aerogenes,Region III-Central Luzon,LOR-SAN ROQUE,Unknown,Unknown,,,2,0,0,2,0,0,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21,3,0.1429,1
+EC_PRFGR1C7,Enterobacter Cloacae Complex,Region III-Central Luzon,LOR-SAN ROQUE,Unknown,Unknown,,,2,0,0,2,0,0,2,0,,0,0,0,0,1,0,0,0,0,0,0,0,,1,0,0,1,0,0,1,0,,0,0,0,0,0,0,0,0,0,0,0,0,20,3,0.15,1
+EC_PRFGR1C12,Enterobacter Cloacae Complex,Region III-Central Luzon,LOR-SAN ROQUE,Unknown,Unknown,,,2,0,0,2,0,0,2,0,,0,0,0,0,1,0,0,0,0,0,0,0,,1,0,0,1,0,0,1,0,,0,0,0,0,0,0,0,0,0,0,0,0,20,3,0.15,1
+EC_PRFGR1C15,Enterobacter Cloacae Complex,Region III-Central Luzon,LOR-SAN ROQUE,Unknown,Unknown,,,2,0,0,2,0,0,2,0,,0,0,0,0,1,0,0,0,0,0,0,0,,1,0,0,1,0,0,1,0,,0,0,0,0,0,0,0,0,0,0,0,0,20,3,0.15,1
+EC_PRFGR1C18,Enterobacter Cloacae Complex,Region III-Central Luzon,LOR-SAN ROQUE,Unknown,Unknown,,,2,0,0,2,0,0,2,0,,0,0,0,0,1,0,0,0,0,0,0,0,,1,0,0,1,0,0,1,0,,0,0,0,0,0,0,0,0,0,0,0,0,20,3,0.15,1
+EC_PRFGR2C2,Klebsiella Pneumoniae Ssp Pneumoniae,Region III-Central Luzon,LOR-SAN ROQUE,Unknown,Unknown,NEG,2,0,0,2,0,0,0,0,0,0,0,0,2,1,1,0,0,0,0,1,2,2,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,22,5,0.2273,1
+EC_PRFGR2C7,Klebsiella Pneumoniae Ssp Pneumoniae,Region III-Central Luzon,LOR-SAN ROQUE,Unknown,Unknown,NEG,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,1,0.0455,0
+EC_PRFGR2C8,Klebsiella Pneumoniae Ssp Pneumoniae,Region III-Central Luzon,LOR-SAN ROQUE,Unknown,Unknown,NEG,2,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,1,0.0455,0
+EC_PRFGR2C11,Enterobacter Aerogenes,Region III-Central Luzon,LOR-SAN ROQUE,Unknown,Unknown,,,2,0,0,2,1,0,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21,3,0.1429,1
+EC_PRFGR3C1,Enterobacter Cloacae Complex,Region III-Central Luzon,LOR-SAN ROQUE,Unknown,Unknown,,,2,0,0,2,0,0,2,0,,0,0,0,0,0,0,0,0,0,0,0,0,,1,0,0,1,0,0,1,0,,0,0,0,0,0,0,0,0,0,0,0,0,20,3,0.15,1
+EC_PRFGR3C6,Enterobacter Cloacae Complex,Region III-Central Luzon,LOR-SAN ROQUE,Unknown,Unknown,,,2,0,0,2,0,0,2,0,,0,0,0,0,1,0,0,0,0,0,0,0,,1,0,0,1,0,0,1,0,,0,0,0,0,0,0,0,0,0,0,0,0,20,3,0.15,1
+EC_PRFGR3C10,Enterobacter Cloacae Complex,Region III-Central Luzon,LOR-SAN ROQUE,Unknown,Unknown,,,2,0,0,2,0,0,2,0,,0,0,0,0,1,0,0,0,0,0,0,0,,1,0,0,1,0,0,1,0,,0,0,0,0,0,0,0,0,0,0,0,0,20,3,0.15,1
+EC_PRFGR3C17,Enterobacter Cloacae Complex,Region III-Central Luzon,LOR-SAN ROQUE,Unknown,Unknown,,,2,0,0,2,0,0,2,0,,0,0,0,0,1,0,0,0,0,0,0,0,,1,0,0,1,0,0,1,0,,0,0,0,0,0,0,0,0,0,0,0,0,20,3,0.15,1
+EC_PRFGR3C20,Enterobacter Cloacae Complex,Region III-Central Luzon,LOR-SAN ROQUE,Unknown,Unknown,,,2,0,0,2,0,1,2,0,,0,0,0,0,1,0,0,0,0,0,0,0,,1,0,0,1,0,0,1,0,,0,0,0,0,0,0,0,0,0,0,0,0,20,3,0.15,1
+SALPRDWR1C3,Salmonella Group,Region III-Central Luzon,LOR-SAN ROQUE,Unknown,Unknown,,0,0,2,0,2,0,0,2,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,22,4,0.1818,1
+SALPRDWR2C5,Escherichia Coli,Region III-Central Luzon,LOR-SAN ROQUE,Unknown,Unknown,NEG,2,0,0,2,0,0,2,2,0,0,0,0,2,1,0,0,0,0,0,0,2,2,1,0,0,1,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,1,1,22,7,0.3182,1
+SALPRDWR3C10,Salmonella Group,Region III-Central Luzon,LOR-SAN ROQUE,Unknown,Unknown,,0,0,2,0,2,0,0,2,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,22,4,0.1818,1
+SALPRDWR3C15,Escherichia Coli,Region III-Central Luzon,LOR-SAN ROQUE,Unknown,Unknown,NEG,0,0,0,2,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,2,2,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,22,4,0.1818,1
+SGPRDWR1C6,Salmonella Group,Region III-Central Luzon,LOR-SAN ROQUE,Unknown,Unknown,,0,0,2,0,2,0,0,2,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,22,4,0.1818,1
+SGPRDWR1C10,Salmonella Group,Region III-Central Luzon,LOR-SAN ROQUE,Unknown,Unknown,,0,0,2,0,2,0,2,2,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,1,0,1,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,22,5,0.2273,1
+SGPRDWR2C5,Salmonella Group,Region III-Central Luzon,LOR-SAN ROQUE,Unknown,Unknown,,0,0,2,0,2,0,0,2,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,22,4,0.1818,1
+SGPRDWR2C9,Salmonella Group,Region III-Central Luzon,LOR-SAN ROQUE,Unknown,Unknown,,0,0,2,0,2,0,0,2,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,22,4,0.1818,1
+SGPRDWR3C8,Salmonella Group,Region III-Central Luzon,LOR-SAN ROQUE,Unknown,Unknown,,0,0,2,0,2,0,2,2,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,1,0,1,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,22,5,0.2273,1
+SGPRDWR3C9,Salmonella Group,Region III-Central Luzon,LOR-SAN ROQUE,Unknown,Unknown,,0,0,2,0,2,0,0,2,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,22,4,0.1818,1
+SALPRRWR2C7,Salmonella Group,Region III-Central Luzon,LOR-SAN ROQUE,Unknown,Unknown,,0,0,2,0,2,0,2,2,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,1,0,1,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,22,5,0.2273,1
+SALPRRWR2C9,Escherichia Coli,Region III-Central Luzon,LOR-SAN ROQUE,Unknown,Unknown,NEG,2,0,0,2,0,0,0,2,0,0,0,0,2,1,0,0,0,0,0,0,2,2,1,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,1,1,22,6,0.2727,1
+SALPRRWR3C8,Escherichia Coli,Region III-Central Luzon,LOR-SAN ROQUE,Unknown,Unknown,NEG,0,0,0,2,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,2,2,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,22,4,0.1818,1
+SALPRRWR3C10,Escherichia Coli,Region III-Central Luzon,LOR-SAN ROQUE,Unknown,Unknown,NEG,0,0,0,2,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,2,2,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,22,4,0.1818,1
+SGPRFGR3C1,Escherichia Coli,Region III-Central Luzon,LOR-SAN ROQUE,Unknown,Unknown,,2,0,0,0,0,0,0,2,0,0,0,0,2,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,22,4,0.1818,1
+VCPRDWR2C6,Enterobacter Cloacae Complex/E Coli,Region III-Central Luzon,LOR-SAN ROQUE,Unknown,Unknown,NEG,2,2,0,1,1,0,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,3,0.1364,1
+VCPRRWR1C3,Escherichia Coli,Region III-Central Luzon,LOR-SAN ROQUE,Unknown,Unknown,POS,2,1,0,2,2,2,2,2,2,2,,0,2,2,0,2,0,2,0,2,2,2,1,0,0,1,1,1,1,1,1,1,,0,1,1,0,1,0,1,0,1,1,1,21,15,0.7143,1
+VCPRRWR1C6,Escherichia Coli,Region III-Central Luzon,LOR-SAN ROQUE,Unknown,Unknown,NEG,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,0,0.0,0
+VCPRRWR1C7,Escherichia Coli,Region III-Central Luzon,LOR-SAN ROQUE,Unknown,Unknown,NEG,2,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,22,2,0.0909,0
+VCPRRWR3C8,Enterobacter Cloacae Complex,Region III-Central Luzon,LOR-SAN ROQUE,Unknown,Unknown,NEG,,2,0,0,2,0,1,2,0,,0,0,0,0,1,0,0,0,0,0,0,0,,1,0,0,1,0,0,1,0,,0,0,0,0,0,0,0,0,0,0,0,0,20,3,0.15,1
+VCPRFTR1C5,Escherichia Coli,Region III-Central Luzon,LOR-SAN ROQUE,Unknown,Unknown,NEG,2,0,0,0,0,2,1,2,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,3,0.1364,1
+VCPRFTR1C6,Escherichia Coli,Region III-Central Luzon,LOR-SAN ROQUE,Unknown,Unknown,NEG,2,0,0,0,0,0,1,2,0,0,0,0,1,1,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,22,3,0.1364,1
+VCPRFTR1C7,Escherichia Coli,Region III-Central Luzon,LOR-SAN ROQUE,Unknown,Unknown,NEG,2,0,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,2,0.0909,0
+VCPRFTR1C9,Escherichia Coli,Region III-Central Luzon,LOR-SAN ROQUE,Unknown,Unknown,NEG,2,0,0,0,0,0,1,2,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,2,0.0909,0
+VCPRFTR1C10,Escherichia Coli,Region III-Central Luzon,LOR-SAN ROQUE,Unknown,Unknown,NEG,2,0,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,2,0.0909,0
+EC_MKDWR1C1,Enterobacter Cloacae Complex,BARMM Region,LOR-TUCA KIALDAN,Unknown,Unknown,,,2,0,0,2,0,0,2,0,,0,0,0,0,0,0,0,0,0,0,0,0,,1,0,0,1,0,0,1,0,,0,0,0,0,0,0,0,0,0,0,0,0,20,3,0.15,1
+EC_MKDWR1C3,Klebsiella Pneumoniae Ssp Pneumoniae,BARMM Region,LOR-TUCA KIALDAN,Unknown,Unknown,NEG,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,1,0.0455,0
+EC_MKDWR1C7,Escherichia Coli,BARMM Region,LOR-TUCA KIALDAN,Unknown,Unknown,NEG,2,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,22,3,0.1364,1
+EC_MKDWR2C3,Escherichia Coli,BARMM Region,LOR-TUCA KIALDAN,Unknown,Unknown,NEG,2,0,0,0,0,0,0,0,0,,0,0,2,0,0,0,0,0,0,0,2,2,1,0,0,0,0,0,0,0,0,,0,0,1,0,0,0,0,0,0,0,1,1,21,4,0.1905,1
+EC_MKDWR2C4,Klebsiella Pneumoniae Ssp Pneumoniae,BARMM Region,LOR-TUCA KIALDAN,Unknown,Unknown,NEG,2,0,0,0,1,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,1,0,21,2,0.0952,0
+EC_MKDWR2C8,Escherichia Coli,BARMM Region,LOR-TUCA KIALDAN,Unknown,Unknown,NEG,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,0,0.0,0
+EC_MKDWR2C9,Escherichia Coli,BARMM Region,LOR-TUCA KIALDAN,Unknown,Unknown,NEG,2,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,22,3,0.1364,1
+EC_MKDWR2C10,Escherichia Coli,BARMM Region,LOR-TUCA KIALDAN,Unknown,Unknown,NEG,2,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,22,4,0.1818,1
+EC_MKDWR3C1,Klebsiella Pneumoniae Ssp Pneumoniae,BARMM Region,LOR-TUCA KIALDAN,Unknown,Unknown,POS,2,0,0,0,2,2,2,2,2,2,,0,0,1,1,0,0,0,0,0,2,0,1,0,0,0,1,1,1,1,1,1,,0,0,0,0,0,0,0,0,0,1,0,21,8,0.381,1
+EC_MKDWR3C2,Escherichia Coli,BARMM Region,LOR-TUCA KIALDAN,Unknown,Unknown,NEG,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,0,0.0,0
+EC_MKDWR3C4,Escherichia Coli,BARMM Region,LOR-TUCA KIALDAN,Unknown,Unknown,NEG,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,0,0.0,0
+EC_MKDWR3C6,Klebsiella Pneumoniae Ssp Pneumoniae,BARMM Region,LOR-TUCA KIALDAN,Unknown,Unknown,NEG,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,1,0.0455,0
+EC_MKDWR3C8,Klebsiella Pneumoniae Ssp Ozaenae,BARMM Region,LOR-TUCA KIALDAN,Unknown,Unknown,NEG,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,1,0.0455,0
+EC_MKDWR3C9,Klebsiella Pneumoniae Ssp Pneumoniae,BARMM Region,LOR-TUCA KIALDAN,Unknown,Unknown,NEG,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,1,0.0455,0
+SAL_MKDWR1C1,Enterobacter Cloacae Complex,BARMM Region,LOR-TUCA KIALDAN,Unknown,Unknown,,,2,0,0,2,0,0,2,0,,0,0,0,0,0,0,0,0,0,0,0,0,,1,0,0,1,0,0,1,0,,0,0,0,0,0,0,0,0,0,0,0,0,20,3,0.15,1
+SAL_MKDWR2C2,Klebsiella Pneumoniae Ssp Pneumoniae,BARMM Region,LOR-TUCA KIALDAN,Unknown,Unknown,NEG,2,0,0,0,0,0,0,0,0,,,0,2,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,,,0,1,0,0,0,0,0,0,0,0,1,20,3,0.15,1
+SAL_MKDWR3C4,Enterobacter Aerogenes,BARMM Region,LOR-TUCA KIALDAN,Unknown,Unknown,,,2,0,0,2,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21,3,0.1429,1
+SG_MKDWR1C1,Escherichia Coli,BARMM Region,LOR-TUCA KIALDAN,Unknown,Unknown,NEG,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,0,0.0,0
+VC_MKDWR1C1,Enterobacter Cloacae Complex,BARMM Region,LOR-TUCA KIALDAN,Unknown,Unknown,,,2,0,1,2,0,0,2,0,,,0,0,0,2,0,0,0,0,0,0,0,,1,0,0,1,0,0,1,0,,,0,0,0,1,0,0,0,0,0,0,0,19,4,0.2105,1
+VC_MKDWR1C2,Enterobacter Cloacae Complex,BARMM Region,LOR-TUCA KIALDAN,Unknown,Unknown,,,2,0,1,2,1,0,2,0,,,0,0,0,1,0,0,0,0,0,0,0,,1,0,0,1,0,0,1,0,,,0,0,0,0,0,0,0,0,0,0,0,19,3,0.1579,1
+VC_MKDWR1C3,Enterobacter Cloacae Complex,BARMM Region,LOR-TUCA KIALDAN,Unknown,Unknown,,,2,0,1,2,0,0,2,0,,,0,0,0,2,0,0,0,0,0,0,0,,1,0,0,1,0,0,1,0,,,0,0,0,1,0,0,0,0,0,0,0,19,4,0.2105,1
+VC_MKDWR1C5,Enterobacter Cloacae Complex,BARMM Region,LOR-TUCA KIALDAN,Unknown,Unknown,,,2,0,1,2,0,0,2,0,,,0,0,0,2,0,0,0,0,0,0,0,,1,0,0,1,0,0,1,0,,,0,0,0,1,0,0,0,0,0,0,0,19,4,0.2105,1
+VC_MKDWR1C6,Klebsiella Pneumoniae Ssp Pneumoniae,BARMM Region,LOR-TUCA KIALDAN,Unknown,Unknown,NEG,2,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,1,0.0455,0
+VC_MKDWR2C1,Enterobacter Cloacae Complex,BARMM Region,LOR-TUCA KIALDAN,Unknown,Unknown,,,2,0,0,2,1,0,2,0,,0,0,0,0,1,0,0,0,0,0,0,0,,1,0,0,1,0,0,1,0,,0,0,0,0,0,0,0,0,0,0,0,0,20,3,0.15,1
+VC_MKDWR2C2,Enterobacter Cloacae Complex,BARMM Region,LOR-TUCA KIALDAN,Unknown,Unknown,,,2,0,1,2,2,0,2,0,,,0,0,0,2,0,0,0,0,0,0,0,,1,0,0,1,1,0,1,0,,,0,0,0,1,0,0,0,0,0,0,0,19,5,0.2632,1
+VC_MKDWR3C2,Enterobacter Cloacae Complex,BARMM Region,LOR-TUCA KIALDAN,Unknown,Unknown,,,2,0,1,2,0,0,2,0,,0,0,0,0,1,0,0,0,0,0,0,0,,1,0,0,1,0,0,1,0,,0,0,0,0,0,0,0,0,0,0,0,0,20,3,0.15,1
+VC_MKDWR3C3,Enterobacter Cloacae Complex,BARMM Region,LOR-TUCA KIALDAN,Unknown,Unknown,,,2,0,1,2,0,0,2,0,,,0,2,0,2,0,0,0,0,0,0,2,,1,0,0,1,0,0,1,0,,,0,1,0,1,0,0,0,0,0,0,1,19,6,0.3158,1
+EC_MKLWR1C6,Klebsiella Pneumoniae Ssp Pneumoniae,BARMM Region,LOR-TUCA KIALDAN,Unknown,Unknown,NEG,2,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,22,2,0.0909,0
+EC_MKLWR2C1,Enterobacter Cloacae Complex,BARMM Region,LOR-TUCA KIALDAN,Unknown,Unknown,,,2,0,0,2,0,0,2,0,,0,0,0,0,1,0,0,0,0,0,0,0,,1,0,0,1,0,0,1,0,,0,0,0,0,0,0,0,0,0,0,0,0,20,3,0.15,1
+EC_MKLWR2C3,Escherichia Coli,BARMM Region,LOR-TUCA KIALDAN,Unknown,Unknown,NEG,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,0,0.0,0
+EC_MKLWR2C4,Escherichia Coli,BARMM Region,LOR-TUCA KIALDAN,Unknown,Unknown,NEG,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,0,0.0,0
+EC_MKLWR2C5,Klebsiella Pneumoniae Ssp Pneumoniae,BARMM Region,LOR-TUCA KIALDAN,Unknown,Unknown,NEG,2,2,0,0,2,2,2,2,2,,,0,2,1,1,0,0,0,0,1,2,2,1,1,0,0,1,1,1,1,1,,,0,1,0,0,0,0,0,0,0,1,1,20,10,0.5,1
+EC_MKLWR2C6,Klebsiella Pneumoniae Ssp Pneumoniae,BARMM Region,LOR-TUCA KIALDAN,Unknown,Unknown,NEG,2,2,0,0,2,2,2,2,2,,,0,2,1,1,0,0,0,0,1,2,2,1,1,0,0,1,1,1,1,1,,,0,1,0,0,0,0,0,0,0,1,1,20,10,0.5,1
+EC_MKLWR3C4,Escherichia Coli,BARMM Region,LOR-TUCA KIALDAN,Unknown,Unknown,NEG,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,22,2,0.0909,0
+EC_MKLWR3C8,Enterobacter Cloacae Complex,BARMM Region,LOR-TUCA KIALDAN,Unknown,Unknown,,,2,0,0,2,0,0,2,0,,0,0,0,0,1,0,0,0,0,0,0,0,,1,0,0,1,0,0,1,0,,0,0,0,0,0,0,0,0,0,0,0,0,20,3,0.15,1
+SG_MKLWR1C4,Vibrio Cholerae,BARMM Region,LOR-TUCA KIALDAN,Unknown,Unknown,,2,0,0,0,,0,0,,,,,,0,0,,0,0,0,,,0,0,1,0,0,0,,0,0,,,,,,0,0,,0,0,0,,,0,0,13,1,0.0769,0
+VC_MKLWR1C11,Vibrio Cholerae,BARMM Region,LOR-TUCA KIALDAN,Unknown,Unknown,,2,0,0,0,,0,0,,,,,,0,0,0,0,0,0,,,0,0,1,0,0,0,,0,0,,,,,,0,0,0,0,0,0,,,0,0,14,1,0.0714,0
+VC_MKLWR2C5,Escherichia Coli,BARMM Region,LOR-TUCA KIALDAN,Unknown,Unknown,POS,1,0,0,0,0,0,2,0,2,,,,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,1,0,1,,,,0,0,0,0,0,0,0,0,,0,18,2,0.1111,0
+VC_MKLWR3C1,Enterobacter Cloacae Complex,BARMM Region,LOR-TUCA KIALDAN,Unknown,Unknown,,,2,0,1,2,0,0,2,0,,0,0,0,0,2,0,0,0,0,0,0,0,,1,0,0,1,0,0,1,0,,0,0,0,0,1,0,0,0,0,0,0,0,20,4,0.2,1
+VC_MKLWR3C2,Enterobacter Cloacae Complex,BARMM Region,LOR-TUCA KIALDAN,Unknown,Unknown,,,2,0,0,2,1,0,2,0,,,0,0,0,2,0,0,0,0,0,0,0,,1,0,0,1,0,0,1,0,,,0,0,0,1,0,0,0,0,0,0,0,19,4,0.2105,1
+VC_MKLWR3C3,Vibrio Vulnificus,BARMM Region,LOR-TUCA KIALDAN,Unknown,Unknown,,,2,0,1,2,0,0,2,0,,,0,2,0,2,0,0,0,0,0,0,2,,1,0,0,1,0,0,1,0,,,0,1,0,1,0,0,0,0,0,0,1,19,6,0.3158,1
+EC_MKFTR1C1,Escherichia Coli,BARMM Region,LOR-TUCA KIALDAN,Unknown,Unknown,NEG,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,0,0.0,0
+EC_MKFTR1C2,Enterobacter Cloacae Complex,BARMM Region,LOR-TUCA KIALDAN,Unknown,Unknown,,,2,0,0,2,0,0,2,0,,0,0,0,0,0,0,0,0,0,0,0,0,,1,0,0,1,0,0,1,0,,0,0,0,0,0,0,0,0,0,0,0,0,20,3,0.15,1
+EC_MKFTR1C9,Escherichia Coli,BARMM Region,LOR-TUCA KIALDAN,Unknown,Unknown,NEG,2,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,22,2,0.0909,0
+EC_MKFTR1C11,Klebsiella Pneumoniae Ssp Pneumoniae,BARMM Region,LOR-TUCA KIALDAN,Unknown,Unknown,NEG,2,0,0,0,0,0,0,0,0,0,,0,2,0,0,0,0,0,0,0,2,2,1,0,0,0,0,0,0,0,0,0,,0,1,0,0,0,0,0,0,0,1,1,21,4,0.1905,1
+EC_MKFTR1C12,Escherichia Coli,BARMM Region,LOR-TUCA KIALDAN,Unknown,Unknown,NEG,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,0,0.0,0
+EC_MKFTR1C13,Klebsiella Pneumoniae Ssp Pneumoniae,BARMM Region,LOR-TUCA KIALDAN,Unknown,Unknown,POS,2,0,0,0,2,1,1,2,0,,,,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,1,0,,,,0,0,0,0,0,0,0,0,0,0,19,3,0.1579,1
+EC_MKFTR1C15,Klebsiella Pneumoniae Ssp Pneumoniae,BARMM Region,LOR-TUCA KIALDAN,Unknown,Unknown,NEG,2,1,0,0,2,0,0,2,0,0,,0,2,0,1,0,0,0,0,0,0,2,1,0,0,0,1,0,0,1,0,0,,0,1,0,0,0,0,0,0,0,0,1,21,5,0.2381,1
+EC_MKFTR1C16,Klebsiella Pneumoniae Ssp Pneumoniae,BARMM Region,LOR-TUCA KIALDAN,Unknown,Unknown,NEG,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,1,0.0455,0
+EC_MKFTR2C1,Escherichia Coli,BARMM Region,LOR-TUCA KIALDAN,Unknown,Unknown,NEG,0,0,0,0,1,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,22,2,0.0909,0
+EC_MKFTR2C2,Escherichia Coli,BARMM Region,LOR-TUCA KIALDAN,Unknown,Unknown,NEG,0,0,0,0,1,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,22,2,0.0909,0
+EC_MKFTR2C3,Escherichia Coli,BARMM Region,LOR-TUCA KIALDAN,Unknown,Unknown,NEG,2,0,0,0,1,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,22,4,0.1818,1
+EC_MKFTR2C4,Escherichia Coli,BARMM Region,LOR-TUCA KIALDAN,Unknown,Unknown,NEG,2,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,1,0.0455,0
+EC_MKFTR2C5,Klebsiella Pneumoniae Ssp Pneumoniae,BARMM Region,LOR-TUCA KIALDAN,Unknown,Unknown,NEG,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,1,0.0455,0
+EC_MKFTR2C7,Klebsiella Pneumoniae Ssp Pneumoniae,BARMM Region,LOR-TUCA KIALDAN,Unknown,Unknown,NEG,2,0,0,0,0,0,0,0,0,0,,0,2,0,0,0,0,0,0,0,2,2,1,0,0,0,0,0,0,0,0,0,,0,1,0,0,0,0,0,0,0,1,1,21,4,0.1905,1
+EC_MKFTR2C8,Klebsiella Pneumoniae Ssp Pneumoniae,BARMM Region,LOR-TUCA KIALDAN,Unknown,Unknown,NEG,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,1,0.0455,0
+EC_MKFTR2C15,Klebsiella Pneumoniae Ssp Pneumoniae,BARMM Region,LOR-TUCA KIALDAN,Unknown,Unknown,NEG,2,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,22,4,0.1818,1
+EC_MKFTR2C16,Klebsiella Pneumoniae Ssp Pneumoniae,BARMM Region,LOR-TUCA KIALDAN,Unknown,Unknown,NEG,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,1,0.0455,0
+EC_MKFTR3C1,Escherichia Coli,BARMM Region,LOR-TUCA KIALDAN,Unknown,Unknown,NEG,0,0,0,0,1,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,22,2,0.0909,0
+EC_MKFTR3C2,Klebsiella Pneumoniae Ssp Pneumoniae,BARMM Region,LOR-TUCA KIALDAN,Unknown,Unknown,NEG,2,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,1,0.0455,0
+EC_MKFTR3C3,Enterobacter Cloacae Complex,BARMM Region,LOR-TUCA KIALDAN,Unknown,Unknown,,,2,0,0,2,0,0,2,0,,0,0,0,0,0,0,0,0,0,0,0,0,,1,0,0,1,0,0,1,0,,0,0,0,0,0,0,0,0,0,0,0,0,20,3,0.15,1
+EC_MKFTR3C4,Klebsiella Pneumoniae Ssp Pneumoniae,BARMM Region,LOR-TUCA KIALDAN,Unknown,Unknown,NEG,2,0,0,0,0,0,0,0,0,0,,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,21,1,0.0476,0
+EC_MKFTR3C5,Klebsiella Pneumoniae Ssp Pneumoniae,BARMM Region,LOR-TUCA KIALDAN,Unknown,Unknown,NEG,2,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,1,0.0455,0
+EC_MKFTR3C7,Klebsiella Pneumoniae Ssp Pneumoniae,BARMM Region,LOR-TUCA KIALDAN,Unknown,Unknown,NEG,2,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,1,0.0455,0
+EC_MKFTR3C8,Klebsiella Pneumoniae Ssp Pneumoniae,BARMM Region,LOR-TUCA KIALDAN,Unknown,Unknown,NEG,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,1,0.0455,0
+EC_MKFTR3C9,Klebsiella Pneumoniae Ssp Pneumoniae,BARMM Region,LOR-TUCA KIALDAN,Unknown,Unknown,NEG,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,1,0.0455,0
+EC_MKFTR3C13,Klebsiella Pneumoniae Ssp Pneumoniae,BARMM Region,LOR-TUCA KIALDAN,Unknown,Unknown,NEG,2,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,22,4,0.1818,1
+EC_MKFTR3C14,Klebsiella Pneumoniae Ssp Pneumoniae,BARMM Region,LOR-TUCA KIALDAN,Unknown,Unknown,NEG,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,1,0.0455,0
+SAL_MKFTR1C1,Klebsiella Pneumoniae Ssp Pneumoniae,BARMM Region,LOR-TUCA KIALDAN,Unknown,Unknown,NEG,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,1,0.0455,0
+SG_MKFTR3C2,Escherichia Coli,BARMM Region,LOR-TUCA KIALDAN,Unknown,Unknown,NEG,2,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,2,0.0909,0
+EC_MKFKR1C2,Escherichia Coli,BARMM Region,LOR-TUCA KIALDAN,Unknown,Unknown,NEG,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,22,2,0.0909,0
+EC_MKFKR1C3,Escherichia Coli,BARMM Region,LOR-TUCA KIALDAN,Unknown,Unknown,NEG,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,22,2,0.0909,0
+EC_MKFKR1C4,Enterobacter Cloacae Complex,BARMM Region,LOR-TUCA KIALDAN,Unknown,Unknown,,,2,0,0,2,0,0,2,0,,0,0,2,0,1,0,0,0,0,0,0,2,,1,0,0,1,0,0,1,0,,0,0,1,0,0,0,0,0,0,0,0,1,20,5,0.25,1
+EC_MKFKR1C6,Escherichia Coli,BARMM Region,LOR-TUCA KIALDAN,Unknown,Unknown,NEG,0,0,,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,2,0,0,,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,21,2,0.0952,0
+EC_MKFKR1C7,Klebsiella Pneumoniae Ssp Pneumoniae,BARMM Region,LOR-TUCA KIALDAN,Unknown,Unknown,NEG,2,0,0,0,0,0,0,0,0,0,0,0,1,0,2,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,22,3,0.1364,1
+EC_MKFKR1C8,Escherichia Coli,BARMM Region,LOR-TUCA KIALDAN,Unknown,Unknown,NEG,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,22,2,0.0909,0
+EC_MKFKR1C9,Enterobacter Cloacae Complex,BARMM Region,LOR-TUCA KIALDAN,Unknown,Unknown,,,2,0,0,2,1,0,2,0,,,0,0,0,0,0,0,0,0,0,0,0,,1,0,0,1,0,0,1,0,,,0,0,0,0,0,0,0,0,0,0,0,19,3,0.1579,1
+EC_MKFKR1C11,Klebsiella Pneumoniae Ssp Pneumoniae,BARMM Region,LOR-TUCA KIALDAN,Unknown,Unknown,NEG,2,2,0,0,0,0,0,0,0,0,0,0,,,1,0,0,,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,,,0,0,0,,0,0,0,0,19,2,0.1053,0
+EC_MKFKR1C15,Klebsiella Pneumoniae Ssp Pneumoniae,BARMM Region,LOR-TUCA KIALDAN,Unknown,Unknown,NEG,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,1,0.0455,0
+EC_MKFKR1C16,Klebsiella Pneumoniae Ssp Pneumoniae,BARMM Region,LOR-TUCA KIALDAN,Unknown,Unknown,NEG,2,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,22,2,0.0909,0
+EC_MKFKR2C1,Escherichia Coli,BARMM Region,LOR-TUCA KIALDAN,Unknown,Unknown,NEG,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,22,2,0.0909,0
+EC_MKFKR2C2,Klebsiella Pneumoniae Ssp Pneumoniae,BARMM Region,LOR-TUCA KIALDAN,Unknown,Unknown,NEG,2,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,1,0.0455,0
+EC_MKFKR2C3,Klebsiella Pneumoniae Ssp Pneumoniae,BARMM Region,LOR-TUCA KIALDAN,Unknown,Unknown,NEG,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,1,0.0455,0
+EC_MKFKR2C4,Enterobacter Cloacae Complex,BARMM Region,LOR-TUCA KIALDAN,Unknown,Unknown,,,0,0,0,0,0,0,0,0,,,,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,,,,0,0,0,0,0,0,0,0,0,0,18,0,0.0,0
+EC_MKFKR2C6,Klebsiella Pneumoniae Ssp Pneumoniae,BARMM Region,LOR-TUCA KIALDAN,Unknown,Unknown,NEG,2,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,1,0.0455,0
+EC_MKFKR2C11,Enterobacter Aerogenes,BARMM Region,LOR-TUCA KIALDAN,Unknown,Unknown,,,0,0,0,0,0,0,0,0,,,,0,0,1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,,,,0,0,0,0,0,0,0,0,0,0,18,0,0.0,0
+EC_MKFKR2C13,Klebsiella Pneumoniae Ssp Pneumoniae,BARMM Region,LOR-TUCA KIALDAN,Unknown,Unknown,NEG,2,0,0,0,2,0,0,2,0,0,0,0,2,0,1,0,0,0,0,0,0,2,1,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,22,5,0.2273,1
+EC_MKFKR2C14,Klebsiella Pneumoniae Ssp Pneumoniae,BARMM Region,LOR-TUCA KIALDAN,Unknown,Unknown,NEG,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,1,0.0455,0
+EC_MKFKR2C15,Escherichia Coli,BARMM Region,LOR-TUCA KIALDAN,Unknown,Unknown,NEG,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,22,2,0.0909,0
+EC_MKFKR3C2,Escherichia Coli,BARMM Region,LOR-TUCA KIALDAN,Unknown,Unknown,NEG,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,22,2,0.0909,0
+EC_MKFKR3C3,Enterobacter Cloacae Complex,BARMM Region,LOR-TUCA KIALDAN,Unknown,Unknown,,,2,0,0,2,0,0,2,0,,0,0,2,0,0,0,0,0,0,0,0,2,,1,0,0,1,0,0,1,0,,0,0,1,0,0,0,0,0,0,0,0,1,20,5,0.25,1
+EC_MKFKR3C4,Enterobacter Cloacae Complex,BARMM Region,LOR-TUCA KIALDAN,Unknown,Unknown,,,2,0,0,2,0,0,2,0,,0,0,2,0,0,0,0,0,0,0,0,2,,1,0,0,1,0,0,1,0,,0,0,1,0,0,0,0,0,0,0,0,1,20,5,0.25,1
+EC_MKFKR3C7,Enterobacter Aerogenes,BARMM Region,LOR-TUCA KIALDAN,Unknown,Unknown,,,2,0,0,2,0,0,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21,3,0.1429,1
+EC_MKFKR3C10,Klebsiella Pneumoniae Ssp Pneumoniae,BARMM Region,LOR-TUCA KIALDAN,Unknown,Unknown,NEG,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,1,0.0455,0
+EC_MKFKR3C11,Enterobacter Aerogenes,BARMM Region,LOR-TUCA KIALDAN,Unknown,Unknown,,,0,0,0,0,0,0,0,0,,,0,0,0,1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,,,0,0,0,0,0,0,0,0,0,0,0,19,0,0.0,0
+EC_MKFKR3C13,Klebsiella Pneumoniae Ssp Pneumoniae,BARMM Region,LOR-TUCA KIALDAN,Unknown,Unknown,NEG,2,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,2,0.0909,0
+SAL_MKFKR2C1,Escherichia Coli,BARMM Region,LOR-TUCA KIALDAN,Unknown,Unknown,NEG,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,0,0.0,0
+SAL_MKFKR2C3,Escherichia Coli,BARMM Region,LOR-TUCA KIALDAN,Unknown,Unknown,NEG,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,0,0.0,0
+EC_PGDWR1C2,Enterobacter Cloacae Complex,Region III-Central Luzon,LOR-SAN GABRIEL,Unknown,Unknown,,,2,0,0,2,0,0,2,0,,0,0,0,0,1,0,0,0,0,0,0,0,,1,0,0,1,0,0,1,0,,0,0,0,0,0,0,0,0,0,0,0,0,20,3,0.15,1
+EC_PGDWR1C3,Enterobacter Cloacae Complex,Region III-Central Luzon,LOR-SAN GABRIEL,Unknown,Unknown,,,2,0,0,2,0,0,2,0,,0,0,0,0,0,0,0,0,0,0,0,0,,1,0,0,1,0,0,1,0,,0,0,0,0,0,0,0,0,0,0,0,0,20,3,0.15,1
+EC_PGDWR2C1,Klebsiella Pneumoniae Ssp Pneumoniae,Region III-Central Luzon,LOR-SAN GABRIEL,Unknown,Unknown,NEG,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,1,0.0455,0
+EC_PGDWR2C3,Klebsiella Pneumoniae Ssp Pneumoniae,Region III-Central Luzon,LOR-SAN GABRIEL,Unknown,Unknown,NEG,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,1,0.0455,0
+EC_PGDWR2C4,Klebsiella Pneumoniae Ssp Pneumoniae,Region III-Central Luzon,LOR-SAN GABRIEL,Unknown,Unknown,NEG,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,1,0.0455,0
+EC_PGDWR3C1,Klebsiella Pneumoniae Ssp Pneumoniae,Region III-Central Luzon,LOR-SAN GABRIEL,Unknown,Unknown,NEG,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,1,0.0455,0
+EC_PGDWR3C4,Klebsiella Pneumoniae Ssp Pneumoniae,Region III-Central Luzon,LOR-SAN GABRIEL,Unknown,Unknown,NEG,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,1,0.0455,0
+EC_PGRWR1C2,Enterobacter Cloacae Complex,Region III-Central Luzon,LOR-SAN GABRIEL,Unknown,Unknown,,,2,0,0,2,0,0,2,0,,0,0,0,0,1,0,0,0,0,0,0,0,,1,0,0,1,0,0,1,0,,0,0,0,0,0,0,0,0,0,0,0,0,20,3,0.15,1
+EC_PGRWR1C3,Enterobacter Aerogenes,Region III-Central Luzon,LOR-SAN GABRIEL,Unknown,Unknown,,,2,0,0,2,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21,3,0.1429,1
+EC_PGRWR1C4,Klebsiella Pneumoniae Ssp Pneumoniae,Region III-Central Luzon,LOR-SAN GABRIEL,Unknown,Unknown,NEG,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,1,0.0455,0
+EC_PGRWR1C8,Enterobacter Cloacae Complex,Region III-Central Luzon,LOR-SAN GABRIEL,Unknown,Unknown,,,2,0,0,2,0,0,2,0,,,0,0,0,1,0,0,0,0,0,0,0,,1,0,0,1,0,0,1,0,,,0,0,0,0,0,0,0,0,0,0,0,19,3,0.1579,1
+EC_PGRWR2C5,Enterobacter Cloacae Complex,Region III-Central Luzon,LOR-SAN GABRIEL,Unknown,Unknown,,,2,0,0,2,0,0,2,0,,0,0,0,0,1,0,0,0,0,0,0,0,,1,0,0,1,0,0,1,0,,0,0,0,0,0,0,0,0,0,0,0,0,20,3,0.15,1
+EC_PGRWR2C6,Klebsiella Pneumoniae Ssp Pneumoniae,Region III-Central Luzon,LOR-SAN GABRIEL,Unknown,Unknown,NEG,2,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,1,0.0455,0
+EC_PGRWR3C1,Klebsiella Pneumoniae Ssp Pneumoniae,Region III-Central Luzon,LOR-SAN GABRIEL,Unknown,Unknown,NEG,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,1,0.0455,0
+EC_PGRWR3C2,Klebsiella Pneumoniae Ssp Pneumoniae,Region III-Central Luzon,LOR-SAN GABRIEL,Unknown,Unknown,NEG,2,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,1,0.0455,0
+EC_PGFTR1C2,Enterobacter Aerogenes,Region III-Central Luzon,LOR-SAN GABRIEL,Unknown,Unknown,,,2,0,0,2,1,0,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21,3,0.1429,1
+EC_PGFTR1C6,Enterobacter Aerogenes,Region III-Central Luzon,LOR-SAN GABRIEL,Unknown,Unknown,,,2,0,0,2,0,0,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21,3,0.1429,1
+EC_PGFTR1C7,Enterobacter Aerogenes,Region III-Central Luzon,LOR-SAN GABRIEL,Unknown,Unknown,,,2,0,0,2,0,0,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21,3,0.1429,1
+EC_PGFTR1C11,Escherichia Coli,Region III-Central Luzon,LOR-SAN GABRIEL,Unknown,Unknown,NEG,2,0,0,0,0,0,0,2,0,0,0,0,2,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,22,4,0.1818,1
+EC_PGFTR1C12,Enterobacter Aerogenes,Region III-Central Luzon,LOR-SAN GABRIEL,Unknown,Unknown,,,2,0,0,2,0,0,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21,3,0.1429,1
+EC_PGFTR1C15,Klebsiella Pneumoniae Ssp Pneumoniae,Region III-Central Luzon,LOR-SAN GABRIEL,Unknown,Unknown,NEG,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,1,0.0455,0
+EC_PGFTR1C16,Enterobacter Aerogenes,Region III-Central Luzon,LOR-SAN GABRIEL,Unknown,Unknown,,,2,0,0,2,0,0,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21,3,0.1429,1
+EC_PGFTR2C1,Klebsiella Pneumoniae Ssp Pneumoniae,Region III-Central Luzon,LOR-SAN GABRIEL,Unknown,Unknown,NEG,2,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,1,0.0455,0
+EC_PGFTR2C6,Klebsiella Pneumoniae Ssp Pneumoniae,Region III-Central Luzon,LOR-SAN GABRIEL,Unknown,Unknown,NEG,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,1,0.0455,0
+EC_PGFTR3C5,Enterobacter Aerogenes,Region III-Central Luzon,LOR-SAN GABRIEL,Unknown,Unknown,,,2,0,0,2,0,0,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21,3,0.1429,1
+EC_PGFTR3C7,Enterobacter Aerogenes,Region III-Central Luzon,LOR-SAN GABRIEL,Unknown,Unknown,,,2,0,0,2,0,0,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21,3,0.1429,1
+EC_PGFTR3C12,Escherichia Coli,Region III-Central Luzon,LOR-SAN GABRIEL,Unknown,Unknown,NEG,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,1,0.0455,0
+EC_PGFGR1C1,Escherichia Coli,Region III-Central Luzon,LOR-SAN GABRIEL,Unknown,Unknown,NEG,2,0,0,0,1,0,0,0,0,0,0,0,2,0,1,0,0,0,0,0,2,2,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,22,4,0.1818,1
+EC_PGFGR1C3,Enterobacter Cloacae Complex,Region III-Central Luzon,LOR-SAN GABRIEL,Unknown,Unknown,,,2,0,0,2,0,0,2,0,,0,0,0,0,1,0,0,0,0,0,0,0,,1,0,0,1,0,0,1,0,,0,0,0,0,0,0,0,0,0,0,0,0,20,3,0.15,1
+EC_PGFGR1C5,Enterobacter Aerogenes,Region III-Central Luzon,LOR-SAN GABRIEL,Unknown,Unknown,,,2,0,0,2,1,0,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21,3,0.1429,1
+EC_PGFGR1C7,Enterobacter Cloacae Complex,Region III-Central Luzon,LOR-SAN GABRIEL,Unknown,Unknown,,,2,0,0,2,1,0,2,0,,0,0,0,0,1,0,0,0,0,0,0,0,,1,0,0,1,0,0,1,0,,0,0,0,0,0,0,0,0,0,0,0,0,20,3,0.15,1
+EC_PGFGR1C9,Klebsiella Pneumoniae Ssp Pneumoniae,Region III-Central Luzon,LOR-SAN GABRIEL,Unknown,Unknown,NEG,2,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,1,0.0455,0
+EC_PGFGR1C10,Klebsiella Pneumoniae Ssp Pneumoniae,Region III-Central Luzon,LOR-SAN GABRIEL,Unknown,Unknown,NEG,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,1,0.0455,0
+EC_PGFGR1C14,Escherichia Coli,Region III-Central Luzon,LOR-SAN GABRIEL,Unknown,Unknown,NEG,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,0,0.0,0
+EC_PGFGR1C16,Enterobacter Cloacae Complex,Region III-Central Luzon,LOR-SAN GABRIEL,Unknown,Unknown,,,2,0,0,2,0,0,2,0,,0,0,0,0,0,0,0,0,0,0,0,0,,1,0,0,1,0,0,1,0,,0,0,0,0,0,0,0,0,0,0,0,0,20,3,0.15,1
+EC_PGFGR1C17,Enterobacter Aerogenes,Region III-Central Luzon,LOR-SAN GABRIEL,Unknown,Unknown,,,2,0,0,2,0,0,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21,3,0.1429,1
+EC_PGFGR1C20,Enterobacter Cloacae Complex,Region III-Central Luzon,LOR-SAN GABRIEL,Unknown,Unknown,,,2,0,0,2,0,0,2,0,,0,0,0,0,1,0,0,0,0,0,0,0,,1,0,0,1,0,0,1,0,,0,0,0,0,0,0,0,0,0,0,0,0,20,3,0.15,1
+EC_PGFGR3C2,Klebsiella Pneumoniae Ssp Pneumoniae,Region III-Central Luzon,LOR-SAN GABRIEL,Unknown,Unknown,NEG,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,1,0.0455,0
+EC_PGFGR3C3,Klebsiella Pneumoniae Ssp Pneumoniae,Region III-Central Luzon,LOR-SAN GABRIEL,Unknown,Unknown,NEG,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,1,0.0455,0
+EC_PGFGR3C7,Enterobacter Cloacae Complex,Region III-Central Luzon,LOR-SAN GABRIEL,Unknown,Unknown,,,2,0,0,2,0,0,2,0,,0,0,0,0,1,0,0,0,0,0,0,0,,1,0,0,1,0,0,1,0,,0,0,0,0,0,0,0,0,0,0,0,0,20,3,0.15,1
+EC_PGFGR3C12,Klebsiella Pneumoniae Ssp Pneumoniae,Region III-Central Luzon,LOR-SAN GABRIEL,Unknown,Unknown,NEG,2,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,1,0.0455,0
+EC_PGFGR3C15,Enterobacter Aerogenes,Region III-Central Luzon,LOR-SAN GABRIEL,Unknown,Unknown,,,2,0,0,2,0,1,2,0,0,0,0,0,0,2,0,0,0,0,0,0,0,,1,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,21,4,0.1905,1
+EC_PGFGR3C16,Enterobacter Cloacae Complex,Region III-Central Luzon,LOR-SAN GABRIEL,Unknown,Unknown,,,2,0,0,2,0,1,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21,3,0.1429,1
+SALPGDWR1C1,Escherichia Coli,Region III-Central Luzon,LOR-SAN GABRIEL,Unknown,Unknown,NEG,2,0,0,2,0,0,0,2,0,0,0,0,2,1,0,0,0,0,0,0,2,2,1,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,1,1,22,6,0.2727,1
+SALPGDWR1C2,Escherichia Coli,Region III-Central Luzon,LOR-SAN GABRIEL,Unknown,Unknown,NEG,2,0,0,2,0,0,2,2,0,0,0,0,2,2,0,0,0,0,0,0,2,2,1,0,0,1,0,0,1,1,0,0,0,0,1,1,0,0,0,0,0,0,1,1,22,8,0.3636,1
+SALPGDWR2C3,Escherichia Coli,Region III-Central Luzon,LOR-SAN GABRIEL,Unknown,Unknown,NEG,0,0,0,2,0,0,2,0,0,0,0,0,2,1,0,0,0,0,0,0,2,2,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,22,5,0.2273,1
+SALPGDWR3C5,Escherichia Coli,Region III-Central Luzon,LOR-SAN GABRIEL,Unknown,Unknown,NEG,2,0,0,2,0,0,2,2,0,0,0,0,2,1,0,0,0,0,0,0,2,2,1,0,0,1,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,1,1,22,7,0.3182,1
+SALPGDWR3C6,Escherichia Coli,Region III-Central Luzon,LOR-SAN GABRIEL,Unknown,Unknown,NEG,2,0,0,2,0,0,2,2,0,0,0,0,2,1,0,0,0,0,0,0,2,2,1,0,0,1,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,1,1,22,7,0.3182,1
+SALPGRWR1C1,Escherichia Coli,Region III-Central Luzon,LOR-SAN GABRIEL,Unknown,Unknown,NEG,0,0,0,2,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,2,2,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,22,4,0.1818,1
+SALPGRWR1C3,Salmonella Group,Region III-Central Luzon,LOR-SAN GABRIEL,Unknown,Unknown,,0,0,2,0,2,0,0,2,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,22,4,0.1818,1
+SALPGRWR2C4,Escherichia Coli,Region III-Central Luzon,LOR-SAN GABRIEL,Unknown,Unknown,NEG,0,0,0,2,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,2,2,2,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,1,22,5,0.2273,1
+SALPGRWR2C8,Escherichia Coli,Region III-Central Luzon,LOR-SAN GABRIEL,Unknown,Unknown,NEG,2,0,0,2,0,0,0,2,0,0,0,0,2,1,0,0,0,0,0,0,2,2,1,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,1,1,22,6,0.2727,1
+SALPGRWR3C6,Salmonella Group,Region III-Central Luzon,LOR-SAN GABRIEL,Unknown,Unknown,,0,0,2,0,2,0,0,2,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,22,4,0.1818,1
+SALPGRWR3C15,Escherichia Coli,Region III-Central Luzon,LOR-SAN GABRIEL,Unknown,Unknown,NEG,2,0,0,2,0,0,2,2,0,0,0,0,2,1,0,0,0,0,0,0,2,2,1,0,0,1,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,1,1,22,7,0.3182,1
+SGPGRWR1C9,Escherichia Coli,Region III-Central Luzon,LOR-SAN GABRIEL,Unknown,Unknown,NEG,0,0,0,2,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,2,2,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,22,4,0.1818,1
+SGPGRWR1C10,Salmonella Group,Region III-Central Luzon,LOR-SAN GABRIEL,Unknown,Unknown,,0,0,2,0,2,0,0,2,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,22,4,0.1818,1
+SGPGRWR3C1,Salmonella Group,Region III-Central Luzon,LOR-SAN GABRIEL,Unknown,Unknown,,0,0,2,0,2,0,0,2,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,22,4,0.1818,1
+SGPGRWR3C2,Escherichia Coli,Region III-Central Luzon,LOR-SAN GABRIEL,Unknown,Unknown,NEG,0,0,0,2,0,0,2,2,0,0,0,0,2,1,0,0,0,0,0,0,2,2,0,0,0,1,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,1,1,22,6,0.2727,1
+SALPGFTR2C9,Salmonella Group,Region III-Central Luzon,LOR-SAN GABRIEL,Unknown,Unknown,,0,0,2,0,2,0,0,2,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,22,4,0.1818,1
+SALPGFTR2C10,Escherichia Coli,Region III-Central Luzon,LOR-SAN GABRIEL,Unknown,Unknown,NEG,2,0,0,2,0,0,2,2,0,0,0,0,2,1,0,0,0,0,0,1,2,2,1,0,0,1,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,1,1,22,7,0.3182,1
+SALPGFTR3C1,Salmonella Group,Region III-Central Luzon,LOR-SAN GABRIEL,Unknown,Unknown,,0,0,2,0,2,0,0,2,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,22,4,0.1818,1
+SALPGFTR3C2,Salmonella Group,Region III-Central Luzon,LOR-SAN GABRIEL,Unknown,Unknown,,0,0,2,0,2,0,0,2,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,22,4,0.1818,1
+SALPGFGR2C7,Escherichia Coli,Region III-Central Luzon,LOR-SAN GABRIEL,Unknown,Unknown,NEG,0,0,0,2,0,0,1,0,0,0,0,0,2,1,0,0,0,0,0,0,2,2,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,22,4,0.1818,1
+SALPGFGR2C9,Salmonella Group,Region III-Central Luzon,LOR-SAN GABRIEL,Unknown,Unknown,,0,0,2,0,2,0,0,2,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,22,4,0.1818,1
+SGPGFGR3C5,Escherichia Coli,Region III-Central Luzon,LOR-SAN GABRIEL,Unknown,Unknown,NEG,2,0,0,0,0,0,0,2,0,0,0,0,2,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,22,4,0.1818,1
+SGPGFGR3C7,Escherichia Coli,Region III-Central Luzon,LOR-SAN GABRIEL,Unknown,Unknown,NEG,2,0,0,2,0,0,1,2,0,0,0,0,2,1,0,0,0,0,0,0,2,2,1,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,1,1,22,6,0.2727,1
+SALPGFGR3C8,Escherichia Coli,Region III-Central Luzon,LOR-SAN GABRIEL,Unknown,Unknown,NEG,0,0,0,2,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,2,2,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,22,4,0.1818,1
+SALPGFGR3C10,Escherichia Coli,Region III-Central Luzon,LOR-SAN GABRIEL,Unknown,Unknown,NEG,2,0,0,2,0,0,2,2,0,0,0,0,2,1,0,0,0,0,0,0,2,2,1,0,0,1,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,1,1,22,7,0.3182,1
+VCPGRWR1C5,Escherichia Coli,Region III-Central Luzon,LOR-SAN GABRIEL,Unknown,Unknown,NEG,2,0,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,2,0.0909,0
+VCPGRWR1C13,Escherichia Coli,Region III-Central Luzon,LOR-SAN GABRIEL,Unknown,Unknown,NEG,2,0,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,2,0.0909,0
+VCPGRWR1C14,Klebsiella Pneumoniae Ssp Pneumoniae,Region III-Central Luzon,LOR-SAN GABRIEL,Unknown,Unknown,NEG,2,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,1,0.0455,0
+VCPGRWR2C15,Klebsiella Pneumoniae Ssp Pneumoniae,Region III-Central Luzon,LOR-SAN GABRIEL,Unknown,Unknown,NEG,2,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,22,2,0.0909,0
+VCPGFTR1C7,Escherichia Coli,Region III-Central Luzon,LOR-SAN GABRIEL,Unknown,Unknown,NEG,2,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,2,0.0909,0
+VCPGFTR1C9,Escherichia Coli,Region III-Central Luzon,LOR-SAN GABRIEL,Unknown,Unknown,NEG,2,0,0,1,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,2,0.0909,0
+VCPGFTR1C10,Escherichia Coli,Region III-Central Luzon,LOR-SAN GABRIEL,Unknown,Unknown,NEG,2,0,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,2,0.0909,0
+VCPGFTR1C11,Escherichia Coli,Region III-Central Luzon,LOR-SAN GABRIEL,Unknown,Unknown,NEG,2,0,0,1,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,2,0.0909,0
+VCPGFTR1C12,Escherichia Coli,Region III-Central Luzon,LOR-SAN GABRIEL,Unknown,Unknown,NEG,2,0,0,1,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,2,0.0909,0
+EC_MAEWUR1C1,Escherichia Coli,BARMM Region,LOR-APMC,Unknown,Unknown,NEG,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,22,2,0.0909,0
+EC_MAEWUR1C6,Escherichia Coli,BARMM Region,LOR-APMC,Unknown,Unknown,NEG,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,0,0.0,0
+EC_MAEWUR1C7,Klebsiella Pneumoniae Ssp Pneumoniae,BARMM Region,LOR-APMC,Unknown,Unknown,NEG,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,1,0.0455,0
+EC_MAEWUR1C9,Escherichia Coli,BARMM Region,LOR-APMC,Unknown,Unknown,NEG,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,1,0.0455,0
+EC_MAEWUR1C14,Klebsiella Pneumoniae Ssp Pneumoniae,BARMM Region,LOR-APMC,Unknown,Unknown,NEG,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,1,0.0455,0
+EC_MAEWUR1C16,Escherichia Coli,BARMM Region,LOR-APMC,Unknown,Unknown,NEG,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,0,0.0,0
+EC_MAEWUR1C21,Klebsiella Pneumoniae Ssp Pneumoniae,BARMM Region,LOR-APMC,Unknown,Unknown,NEG,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,1,0.0455,0
+EC_MAEWUR1C27,Escherichia Coli,BARMM Region,LOR-APMC,Unknown,Unknown,NEG,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,22,2,0.0909,0
+EC_MAEWUR1C28,Klebsiella Pneumoniae Ssp Pneumoniae,BARMM Region,LOR-APMC,Unknown,Unknown,NEG,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,1,0.0455,0
+EC_MAEWUR1C29,Escherichia Coli,BARMM Region,LOR-APMC,Unknown,Unknown,NEG,2,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,22,2,0.0909,0
+EC_MAEWUR2C1,Escherichia Coli,BARMM Region,LOR-APMC,Unknown,Unknown,NEG,2,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,22,2,0.0909,0
+EC_MAEWUR2C2,Escherichia Coli,BARMM Region,LOR-APMC,Unknown,Unknown,NEG,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,0,0.0,0
+EC_MAEWUR2C5,Klebsiella Pneumoniae Ssp Pneumoniae,BARMM Region,LOR-APMC,Unknown,Unknown,NEG,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,0,0.0,0
+EC_MAEWUR2C6,Escherichia Coli,BARMM Region,LOR-APMC,Unknown,Unknown,NEG,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,0,0.0,0
+EC_MAEWUR2C11,Klebsiella Pneumoniae Ssp Pneumoniae,BARMM Region,LOR-APMC,Unknown,Unknown,NEG,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,1,0.0455,0
+EC_MAEWUR2C16,Escherichia Coli,BARMM Region,LOR-APMC,Unknown,Unknown,NEG,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,0,0.0,0
+EC_MAEWUR2C18,Klebsiella Pneumoniae Ssp Pneumoniae,BARMM Region,LOR-APMC,Unknown,Unknown,NEG,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,1,0.0455,0
+EC_MAEWUR2C20,Escherichia Coli,BARMM Region,LOR-APMC,Unknown,Unknown,NEG,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,22,1,0.0455,0
+EC_MAEWUR2C23,Escherichia Coli,BARMM Region,LOR-APMC,Unknown,Unknown,NEG,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,0,0.0,0
+EC_MAEWUR2C26,Escherichia Coli,BARMM Region,LOR-APMC,Unknown,Unknown,NEG,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,0,0.0,0
+EC_MAEWUR2C30,Escherichia Coli,BARMM Region,LOR-APMC,Unknown,Unknown,NEG,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,0,0.0,0
+EC_MAEWUR3C1,Escherichia Coli,BARMM Region,LOR-APMC,Unknown,Unknown,NEG,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,22,2,0.0909,0
+EC_MAEWUR3C2,Escherichia Coli,BARMM Region,LOR-APMC,Unknown,Unknown,NEG,2,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,22,3,0.1364,1
+EC_MAEWUR3C3,Escherichia Coli,BARMM Region,LOR-APMC,Unknown,Unknown,NEG,2,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,22,3,0.1364,1
+EC_MAEWUR3C4,Escherichia Coli,BARMM Region,LOR-APMC,Unknown,Unknown,NEG,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,0,0.0,0
+EC_MAEWUR3C6,Escherichia Coli,BARMM Region,LOR-APMC,Unknown,Unknown,NEG,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,0,0.0,0
+EC_MAEWUR3C15,Klebsiella Pneumoniae Ssp Pneumoniae,BARMM Region,LOR-APMC,Unknown,Unknown,NEG,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,1,0.0455,0
+EC_MAEWUR3C20,Klebsiella Pneumoniae Ssp Pneumoniae,BARMM Region,LOR-APMC,Unknown,Unknown,NEG,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,1,0.0455,0
+EC_MAEWUR3C22,Escherichia Coli,BARMM Region,LOR-APMC,Unknown,Unknown,NEG,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,0,0.0,0
+EC_MAEWUR3C24,Klebsiella Pneumoniae Ssp Pneumoniae,BARMM Region,LOR-APMC,Unknown,Unknown,NEG,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,1,0.0455,0
+EC_MAEWUR3C27,Escherichia Coli,BARMM Region,LOR-APMC,Unknown,Unknown,NEG,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,0,0.0,0
+EC_MAEWUR3C28,Escherichia Coli,BARMM Region,LOR-APMC,Unknown,Unknown,NEG,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,0,0.0,0
+EC_MAEWUR3C29,Escherichia Coli,BARMM Region,LOR-APMC,Unknown,Unknown,NEG,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,0,0.0,0
+EC_MAEWUR3C31,Escherichia Coli,BARMM Region,LOR-APMC,Unknown,Unknown,NEG,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,0,0.0,0
+EC_MAEWUR3C32,Escherichia Coli,BARMM Region,LOR-APMC,Unknown,Unknown,NEG,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,0,0.0,0
+EC_MAEWUR3C33,Escherichia Coli,BARMM Region,LOR-APMC,Unknown,Unknown,NEG,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,22,1,0.0455,0
+VCMAEWUR2C16,Vibrio Fluvialis,BARMM Region,LOR-APMC,Unknown,Unknown,NEG,2,2,0,0,,2,2,,,,,,1,0,,2,0,0,,,2,2,1,1,0,0,,1,1,,,,,,0,0,,1,0,0,,,1,1,13,7,0.5385,1
+EC_MAEWTR2C5,Escherichia Coli,BARMM Region,LOR-APMC,Unknown,Unknown,NEG,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,0,0.0,0
+EC_MAEWTR2C6,Escherichia Coli,BARMM Region,LOR-APMC,Unknown,Unknown,NEG,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,0,0.0,0
+EC_MAEWTR3C9,Escherichia Coli,BARMM Region,LOR-APMC,Unknown,Unknown,NEG,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,22,1,0.0455,0
+EC_MAEWTR3C10,Escherichia Coli,BARMM Region,LOR-APMC,Unknown,Unknown,NEG,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,22,1,0.0455,0
+EC_MAEWTR3C11,Escherichia Coli,BARMM Region,LOR-APMC,Unknown,Unknown,NEG,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,22,1,0.0455,0
