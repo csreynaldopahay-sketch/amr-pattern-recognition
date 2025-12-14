@@ -56,7 +56,7 @@ def clean_result(value: str) -> str:
         return ""
     statuses = {ch for ch in value.upper() if ch in STATUS_MAP}
     if len(statuses) == 1:
-        return statuses.pop()
+        return next(iter(statuses))
     return ""
 
 
@@ -139,7 +139,9 @@ def deduplicate(records: List[Dict[str, str]]) -> List[Dict[str, str]]:
 
 
 def compute_coverage(records: List[Dict[str, str]], antibiotics: List[str]) -> Dict[str, float]:
-    total = len(records) or 1
+    if not records:
+        return {ab: 0.0 for ab in antibiotics}
+    total = len(records)
     coverage = {}
     for ab in antibiotics:
         observed = sum(1 for r in records if r.get(ab))
@@ -178,7 +180,7 @@ def encode_record(record: Dict[str, str], antibiotics: List[str]) -> Dict[str, o
             num_resistant += 1
     encoded["num_antibiotics_tested"] = num_tested
     encoded["num_resistant"] = num_resistant
-    encoded["MAR_index"] = round(num_resistant / num_tested, 4) if num_tested else 0.0
+    encoded["MAR_index"] = round(num_resistant / num_tested, 4) if num_tested else ""
     if num_tested:
         encoded["MDR_flag"] = 1 if num_resistant >= 3 else 0
     else:
