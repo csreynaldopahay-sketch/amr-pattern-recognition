@@ -323,7 +323,7 @@ EC_MKLWR2C5,Klebsiella Pneumoniae Ssp Pneumoniae,BARMM Region,LOR-TUCA KIALDAN,U
 EC_MKLWR2C6,Klebsiella Pneumoniae Ssp Pneumoniae,BARMM Region,LOR-TUCA KIALDAN,Unknown,Unknown,NEG,2,2,0,0,2,2,2,2,2,,,0,2,1,1,0,0,0,0,1,2,2,1,1,0,0,1,1,1,1,1,,,0,1,0,0,0,0,0,0,0,1,1,20,10,0.5,1
 EC_MKLWR3C4,Escherichia Coli,BARMM Region,LOR-TUCA KIALDAN,Unknown,Unknown,NEG,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,22,2,0.0909,0
 EC_MKLWR3C8,Enterobacter Cloacae Complex,BARMM Region,LOR-TUCA KIALDAN,Unknown,Unknown,,,2,0,0,2,0,0,2,0,,0,0,0,0,1,0,0,0,0,0,0,0,,1,0,0,1,0,0,1,0,,0,0,0,0,0,0,0,0,0,0,0,0,20,3,0.15,1
-SG_MKLWR1C4,Vibrio Cholarae,BARMM Region,LOR-TUCA KIALDAN,Unknown,Unknown,,2,0,0,0,,0,0,,,,,,0,0,,0,0,0,,,0,0,1,0,0,0,,0,0,,,,,,0,0,,0,0,0,,,0,0,13,1,0.0769,0
+SG_MKLWR1C4,Vibrio Cholerae,BARMM Region,LOR-TUCA KIALDAN,Unknown,Unknown,,2,0,0,0,,0,0,,,,,,0,0,,0,0,0,,,0,0,1,0,0,0,,0,0,,,,,,0,0,,0,0,0,,,0,0,13,1,0.0769,0
 VC_MKLWR1C11,Vibrio Cholerae,BARMM Region,LOR-TUCA KIALDAN,Unknown,Unknown,,2,0,0,0,,0,0,,,,,,0,0,0,0,0,0,,,0,0,1,0,0,0,,0,0,,,,,,0,0,0,0,0,0,,,0,0,14,1,0.0714,0
 VC_MKLWR2C5,Escherichia Coli,BARMM Region,LOR-TUCA KIALDAN,Unknown,Unknown,POS,1,0,0,0,0,0,2,0,2,,,,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,1,0,1,,,,0,0,0,0,0,0,0,0,,0,18,2,0.1111,0
 VC_MKLWR3C1,Enterobacter Cloacae Complex,BARMM Region,LOR-TUCA KIALDAN,Unknown,Unknown,,,2,0,1,2,0,0,2,0,,0,0,0,0,2,0,0,0,0,0,0,0,,1,0,0,1,0,0,1,0,,0,0,0,0,1,0,0,0,0,0,0,0,20,4,0.2,1

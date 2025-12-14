@@ -20,10 +20,17 @@ METADATA_COLUMNS = [
     "esbl",
 ]
 
+SPECIES_CORRECTIONS = {
+    "pseudomoans": "Pseudomonas",
+    "vibrio cholarae": "Vibrio Cholerae",
+}
+
 
 def standardize_species(name: str) -> str:
     cleaned = re.sub(r"\s+", " ", name or "").strip()
-    return cleaned.title() if cleaned else ""
+    titled = cleaned.title() if cleaned else ""
+    normalized = titled.lower()
+    return SPECIES_CORRECTIONS.get(normalized, titled)
 
 
 def standardize_antibiotic_name(name: str) -> str:
@@ -52,11 +59,16 @@ def clean_result(value: str) -> str:
 
 def parse_metadata_from_filename(path: str) -> Tuple[str, str]:
     base = os.path.basename(path)
-    match = re.match(r"1NET_P2-AMR_(.+?) - Copy - (.+)\.csv", base)
-    if match:
-        region = match.group(1).strip()
-        site = os.path.splitext(match.group(2).strip())[0]
-        return region, site
+    patterns = [
+        r"1NET_P2-AMR_(.+?) - Copy - (.+)\.csv",
+        r"1NET_P2-AMR_(.+?) - (.+)\.csv",
+    ]
+    for pattern in patterns:
+        match = re.match(pattern, base)
+        if match:
+            region = match.group(1).strip()
+            site = os.path.splitext(match.group(2).strip())[0]
+            return region, site
     return "Unknown", os.path.splitext(base)[0]
 
 
