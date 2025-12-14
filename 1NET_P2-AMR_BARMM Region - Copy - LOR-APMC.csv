@@ -1,0 +1,94 @@
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,CODE,ISOLATE ID,LEVEL OF RESISTANCE ON TEST ANTIBIOTICS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Scored Resistance,No. of Antibiotic Tested,MAR INDEX
+,,,,ESBL,AM,,AMC,,CPT,,CN,,CF,,CPD,,CTX,,CFO,,CFT,,CZA,,IPM,,AN,,GM,,N,,NAL,,ENR,,MRB,,PRA,,DO,,TE,,FT,,C,,SXT,,,,
+,,,,,MIC,INT.,MIC,INT.,MIC,INT.,MIC,INT.,MIC,INT.,MIC,INT.,MIC,INT.,MIC,INT.,MIC,INT.,MIC,INT.,MIC,INT.,MIC,INT.,MIC,INT.,MIC,INT.,MIC,INT.,MIC,INT.,MIC,INT.,MIC,INT.,MIC,INT.,MIC,INT.,MIC,INT.,MIC,INT.,MIC,INT.,,,
+,,EC_MAEWUR1C1,Escherichia coli,NEG,>=32,R,16,I,,S,<=4,S,16,S,<=0.25,S,,S,1,S,<=1,S,,S,<=0.25,S,<=2,S,<=1,S,<=2,S,,,0.5,S,<=0.5,S,<=-0.12,S,1,S,<=1,S,<=16,S,8,S,>=320 ,R,2,22,0.0909
+,,EC_MAEWUR1C6,Escherichia coli,NEG,<=2,S,<=2,S,,S,<=4,S,4,S,<=0.25,S,,S,<=0.5,S,<=1,S,,S,<=0.25,S,<=2,S,<=1,S,<=2,S,,,<=0.12,S,<=0.5,S,<=0.12,S,1,S,<=1,S,<=16,S,4,S,<=20,S,0,22,0.0000
+,,EC_MAEWUR1C7,Klebsiella pneumoniae ssp pneumoniae,NEG,8,*R,<=2,S,,S,8,S,4,S,<=0.25,S,,S,1,S,<=1,S,,S,<=0.25,S,<=2,S,<=1,S,<=2,S,,,<=0.12,S,<=0.5,S,<=0.12,S,1,S,<=1,S,<=16,S,8,S,<=20,S,1,22,0.0455
+,,EC_MAEWUR1C9,Escherichia coli,NEG,>=32,R,4,S,,S,<=4,S,4,S,<=0.25,S,,S,<=0.5,S,<=1,S,,S,<=0.25,S,<=2,S,<=1,S,<=2,S,,,<=0.12,S,<=0.5,S,<=0.12,S,1,S,<=1,S,<=16,S,4,S,<=20,S,1,22,0.0455
+,,EC_MAEWUR1C14,Klebsiella pneumoniae ssp pneumoniae,NEG,>=32,R,<=2,S,,S,<=4,S,<=2,S,<=0.25,S,,S,<=0.5,S,<=1,S,,S,<=0.25,S,<=2,S,<=1,S,<=2,S,,,<=0.12,S,<=0.5,S,<=0.12,S,1,S,<=1,S,32,S,<=2,S,<=20,S,1,22,0.0455
+,,EC_MAEWUR1C16,Escherichia coli,NEG,8,S,<=2,S,,S,<=4,S,4,S,<=0.25,S,,S,1,S,<=1,S,,S,<=0.25,S,<=2,S,<=1,S,<=2,S,,,0.5,S,<=0.5,S,<=-0.12,S,1,S,<=1,S,<=16,S,8,S,<=20,S,0,22,0.0000
+,,EC_MAEWUR1C21,Klebsiella pneumoniae ssp pneumoniae,NEG,16,*R,<=2,S,,S,<=4,S,<=2,S,<=0.25,S,,S,<=0.5,S,<=1,S,,S,<=0.25,S,<=2,S,<=1,S,<=2,S,,,<=0.12,S,<=0.5,S,<=0.12,S,1,S,<=1,S,<=16,S,<=2,S,<=20,S,1,22,0.0455
+,,EC_MAEWUR1C25,Klebsiella pneumoniae ssp pneumoniae,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,EC_MAEWUR1C27,Escherichia coli,NEG,<=2,S,<=2,S,,S,<=4,S,<=2,S,<=0.25,S,,S,<=0.5,S,<=1,S,,S,<=0.25,S,<=2,S,<=1,S,<=2,S,,,<=0.12,S,<=0.5,S,<=0.12,S,>=16,R,<=16,R,<=16,S,4,S,<=20,S,2,22,0.0909
+,,EC_MAEWUR1C28,Klebsiella pneumoniae ssp pneumoniae,NEG,16,*R,<=2,S,,S,<=4,S,<=2,S,<=0.25,S,,S,<=0.5,S,<=1,S,,S,<=0.25,S,<=2,S,<=1,S,<=2,S,,,<=0.12,S,<=0.5,S,<=0.12,S,1,S,<=1,S,32,S,<=2,S,<=20,S,1,22,0.0455
+,,EC_MAEWUR1C29,Escherichia coli,NEG,>=32,R,<=2,S,,S,8,S,4,S,<=0.25,S,,S,<=0.5,S,<=1,S,,S,<=0.25,S,<=2,S,2,S,<=2,S,,,1,I,<=0.5,S,0.25,S,>=16,R,8,I,<=16,S,8,S,<=20,S,1,22,0.0455
+,,EC_MAEWUR2C1,Escherichia coli,NEG,>=32,R,16,I,,S,<=4,S,16,I,<=0.25,S,,S,1,S,<=1,S,,S,<=0.25,S,<=2,S,<=1,S,<=2,S,,,0.5,S,<=0.5,S,<=-0.12,S,1,S,<=1,S,<=16,S,8,S,>=320 ,R,2,22,0.0909
+,,EC_MAEWUR2C2,Escherichia coli,NEG,<=2,S,<=2,S,,S,<=4,S,4,S,<=0.25,S,,S,<=0.5,S,<=1,S,,S,<=0.25,S,<=2,S,<=1,S,<=2,S,,,<=0.12,S,<=0.5,S,<=0.12,S,<=0.5,S,<=1,S,<=16,S,<=2,S,<=20,S,0,22,0.0000
+,,EC_MAEWUR2C3,Klebsiella pneumoniae ssp pneumoniae,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,EC_MAEWUR2C5,Klebsiella pneumoniae ssp pneumoniae,NEG,<=2*,S,<=2,S,,S,<=4,S,4,S,<=0.25,S,,S,<=0.5,S,<=1,S,,S,<=0.25,S,<=2,S,<=1,S,<=2,S,,,<=0.12,S,<=0.5,S,<=0.12,S,1,S,<=1,S,<=16,S,4,S,<=20,S,0,22,0.0000
+,,EC_MAEWUR2C6,Escherichia coli,NEG,<=2,S,<=2,S,,S,<=4,S,4,S,<=0.25,S,,S,<=0.5,S,<=1,S,,S,<=0.25,S,<=2,S,<=1,S,<=2,S,,,<=0.12,S,<=0.5,S,<=0.12,S,<=0.5,S,<=1,S,<=16,S,<=2,S,<=20,S,0,22,0.0000
+,,EC_MAEWUR2C11,Klebsiella pneumoniae ssp pneumoniae,NEG,16,*R,<=2,S,,S,<=4,S,<=2,S,<=0.25,S,,S,<=0.5,S,<=1,S,,S,<=0.25,S,<=2,S,<=1,S,<=2,S,,,<=0.12,S,<=0.5,S,<=0.12,S,1,S,<=1,S,32,S,<=2,S,<=20,S,1,22,0.0455
+,,EC_MAEWUR2C13,Klebsiella pneumoniae ssp pneumoniae,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,EC_MAEWUR2C16,Escherichia coli,NEG,<=2,S,<=2,S,,S,<=4,S,4,S,<=0.25,S,,S,<=0.5,S,<=1,S,,S,<=0.25,S,<=2,S,<=1,S,<=2,S,,,<=0.12,S,<=0.5,S,<=0.12,S,1,S,<=1,S,<=16,S,<=2,S,<=20,S,0,22,0.0000
+,,EC_MAEWUR2C18,Klebsiella pneumoniae ssp pneumoniae,NEG,16,*R,<=2,S,,S,<=4,S,<=2,S,<=0.25,S,,S,<=0.5,S,<=1,S,,S,<=0.25,S,<=2,S,<=1,S,<=2,S,,,<=0.12,S,<=0.5,S,<=0.12,S,1,S,<=1,S,<=16,S,<=2,S,<=20,S,1,22,0.0455
+,,EC_MAEWUR2C20,Escherichia coli,NEG,<=2,S,<=2,S,,S,<=4,S,4,S,<=0.25,S,,S,<=0.5,S,<=1,S,,S,<=0.25,S,<=2,S,<=1,S,<=2,S,,,<=0.12,S,<=0.5,S,<=0.12,S,4,S,<=16,R,<=16,S,<=2,S,<=20,S,1,22,0.0455
+,,EC_MAEWUR2C23,Escherichia coli,NEG,<=2,S,<=2,S,,S,<=4,S,4,S,<=0.25,S,,S,<=0.5,S,<=1,S,,S,<=0.25,S,<=2,S,<=1,S,<=2,S,,,<=0.12,S,<=0.5,S,<=0.12,S,1,S,<=1,S,<=16,S,<=2,S,<=20,S,0,22,0.0000
+,,EC_MAEWUR2C25,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,EC_MAEWUR2C26,Escherichia coli,NEG,8,S,<=2,S,,S,8,S,4,S,<=0.25,S,,S,1,S,<=1,S,,S,<=0.25,S,<=2,S,<=1,S,<=2,S,,,<=0.12,S,<=0.5,S,<=0.12,S,1,S,<=1,S,<=16,S,<=2,S,<=20,S,0,22,0.0000
+,,EC_MAEWUR2C27,Klebsiella pneumoniae ssp pneumoniae,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,EC_MAEWUR2C29,Klebsiella pneumoniae ssp pneumoniae,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,EC_MAEWUR2C30,Escherichia coli,NEG,4,S,<=2,S,,S,8,S,4,S,<=0.25,S,,S,<=0.5,S,<=1,S,,S,<=0.25,S,<=2,S,<=1,S,<=2,S,,,<=0.12,S,<=0.5,S,<=0.12,S,1,S,<=1,S,<=16,S,8,S,<=20,S,0,22,0.0000
+,,EC_MAEWUR3C1,Escherichia coli,NEG,16,*R,4,S,,S,8,S,16,I,<=0.25,S,,S,<=0.5,S,<=1,S,,S,<=0.25,S,<=2,S,<=1,S,<=2,S,,,<=0.12,S,<=0.5,S,<=0.12,S,<=0.5,S,<=1,S,<=16,S,<=2,S,>=320,R,2,22,0.0909
+,,EC_MAEWUR3C2,Escherichia coli,NEG,>=32,R,4,S,,S,8,S,4,S,<=0.25,S,,S,<=0.5,S,<=1,S,,S,<=0.25,S,<=2,S,<=1,S,<=2,S,,,"0,5",S,<=0.5,S,0.25,S,4,S,<=16,R,<=16,S,>=64,R,<=20,S,3,22,0.1364
+,,EC_MAEWUR3C3,Escherichia coli,NEG,>=32,R,4,S,,S,<=4,S,4,S,<=0.25,S,,S,<=0.5,S,<=1,S,,S,<=0.25,S,<=2,S,<=1,S,<=2,S,,,<=0.12,S,<=0.5,S,<=0.12,S,>=16,R,>=16,R,<=16,S,4,S,<=20,S,3,22,0.1364
+,,EC_MAEWUR3C4,Escherichia coli,NEG,<=2,S,<=2,S,,S,<=4,S,4,S,<=0.25,S,,S,<=0.5,S,<=1,S,,S,<=0.25,S,<=2,S,<=1,S,<=2,S,,,<=0.12,S,<=0.5,S,<=0.12,S,1,S,<=1,S,<=16,S,4,S,<=20,S,0,22,0.0000
+,,EC_MAEWUR3C6,Escherichia coli,NEG,<=2,S,<=2,S,,S,<=4,S,4,S,<=0.25,S,,S,<=0.5,S,<=1,S,,S,<=0.25,S,<=2,S,<=1,S,<=2,S,,,<=0.12,S,<=0.5,S,<=0.12,S,1,S,<=1,S,<=16,S,4,S,<=20,S,0,22,0.0000
+,,EC_MAEWUR3C8,Klebsiella pneumoniae ssp pneumoniae,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,EC_MAEWUR3C15,Klebsiella pneumoniae ssp pneumoniae,NEG,>=32,R,<=2,S,,S,<=4,S,<=2,S,<=0.25,S,,S,1,S,<=1,S,,S,<=0.25,S,<=2,S,<=1,S,<=2,S,,,<=0.12,S,<=0.5,S,<=0.12,S,1,S,<=1,S,32,S,<=2,S,<=20,S,1,22,0.0455
+,,EC_MAEWUR3C20,Klebsiella pneumoniae ssp pneumoniae,NEG,>=32,R,<=2,S,,S,<=4,S,<=2,S,<=0.25,S,,S,1,S,<=1,S,,S,<=0.25,S,<=2,S,<=1,S,<=2,S,,,<=0.12,S,<=0.5,S,<=0.12,S,1,S,<=1,S,32,S,<=2,S,<=20,S,1,22,0.0455
+,,EC_MAEWUR3C21,Klebsiella pneumoniae ssp pneumoniae,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,EC_MAEWUR3C22,Escherichia coli,NEG,<=2,S,<=2,S,,S,<=4,S,4,S,<=0.25,S,,S,1,S,<=1,S,,S,<=0.25,S,<=2,S,<=1,S,<=2,S,,,<=0.12,S,<=0.5,S,<=0.12,S,1,S,<=1,S,<=16,S,4,S,<=20,S,0,22,0.0000
+,,EC_MAEWUR3C24,Klebsiella pneumoniae ssp pneumoniae,NEG,>=32,R,<=2,S,,S,<=4,S,<=2,S,<=0.25,S,,S,1,S,<=1,S,,S,<=0.25,S,<=2,S,<=1,S,<=2,S,,,<=0.12,S,<=0.5,S,<=0.12,S,1,S,<=1,S,32,S,<=2,S,<=20,S,1,22,0.0455
+,,EC_MAEWUR3C25,Klebsiella pneumoniae ssp pneumoniae,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,EC_MAEWUR3C26,Escherichia coli,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,EC_MAEWUR3C27,Escherichia coli,NEG,<=2,S,<=2,S,,S,<=4,S,<=2,S,<=0.25,S,,S,<=0.5,S,<=1,S,,S,<=0.25,S,<=2,S,<=1,S,<=2,S,,,<=0.12,S,<=0.5,S,<=0.12,S,<=0.5,S,<=1,S,<=16,S,<=2,S,<=20,S,0,22,0.0000
+,,EC_MAEWUR3C28,Escherichia coli,NEG,<=2,S,<=2,S,,S,8,S,4,S,<=0.25,S,,S,1,S,<=1,S,,S,<=0.25,S,<=2,S,<=1,S,<=2,S,,,<=0.12,S,<=0.5,S,<=0.12,S,1,S,<=1,S,<=16,S,4,S,<=20,S,0,22,0.0000
+,,EC_MAEWUR3C29,Escherichia coli,NEG,4,S,<=2,S,,S,8,S,4,S,<=0.25,S,,S,1,S,<=1,S,,S,<=0.25,S,<=2,S,<=1,S,<=2,S,,,<=0.12,S,<=0.5,S,<=0.12,S,1,S,<=1,S,<=16,S,16,I,<=20,S,0,22,0.0000
+,,EC_MAEWUR3C31,Escherichia coli,NEG,<=2,S,<=2,S,,S,<=4,S,4,S,<=0.25,S,,S,<=0.5,S,<=1,S,,S,<=0.25,S,<=2,S,<=1,S,<=2,S,,,<=0.12,S,<=0.5,S,<=0.12,S,1,S,<=1,S,<=16,S,4,S,<=20,S,0,22,0.0000
+,,EC_MAEWUR3C32,Escherichia coli,NEG,<=2,S,<=2,S,,S,<=4,S,4,S,<=0.25,S,,S,<=0.5,S,<=1,S,,S,<=0.25,S,<=2,S,<=1,S,<=2,S,,,<=0.12,S,<=0.5,S,<=0.12,S,1,S,<=1,S,<=16,S,4,S,<=20,S,0,22,0.0000
+,,EC_MAEWUR3C33,Escherichia coli,NEG,<=2,S,<=2,S,,S,<=4,S,4,S,<=0.25,S,,S,<=0.5,S,<=1,S,,S,<=0.25,S,<=2,S,<=1,S,<=2,S,,,<=0.12,S,<=0.5,S,<=0.12,S,8,I,>=16,R,<=16,S,<=2,S,<=20,S,1,22,0.0455
+,,SAL_MAEWUR1C2,Pseudomoans aeruginosa,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,SAL_MAEWUR1C3,Pseudomoans aeruginosa,,,,,,,,,,,,,,,R,2,S,>=8,R,,,0.5,S,<=2,S,<=1,S,<=2,S,,,1,I,<=0.5,S,,,,,,,,,,,,,3,9,0.3333
+,,SAL_MAEWUR1C4,Pseudomoans aeruginosa,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,SAL_MAEWUR1C5,Pseudomoans aeruginosa,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,SAL_MAEWUR1C6,Pseudomoans aeruginosa,NEG,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,SAL_MAEWUR1C7,Pseudomoans aeruginosa,NEG,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,SAL_MAEWUR1C8,Pseudomoans aeruginosa,NEG,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,SAL_MAEWUR1C9,Pseudomoans aeruginosa,NEG,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,SAL_MAEWUR1C10,Pseudomoans aeruginosa,NEG,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,SAL_MAEWUR1C11,Pseudomoans aeruginosa,NEG,,,,,,,,,,,,,,R,>=8,R,>=8,R,,,1,S,<=2,S,<=1,S,,,,,0.5,S,<=0.5,S,,,,,,,,,,,,,3,9,0.3333
+,,SAL_MAEWUR2C3,Pseudomoans aeruginosa,NEG,,,,,,,,,,,,,,R,>=8,R,>=8,R,,,0.5,S,<=2,S,<=1,S,,,,,1,I,<=0.5,S,,,,,,,,,,,,,3,9,0.3333
+,,SAL_MAEWUR2C4,Pseudomoans aeruginosa,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,SAL_MAEWUR2C5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,SAL_MAEWUR2C6,Pseudomoans aeruginosa,NEG,,,,,,,,,,,,,,R,>=8,R,>=8,R,,,1,S,<=2,S,<=1,S,,,,,0.5,S,<=0.5,S,,,,,,,,,,,,,3,9,0.3333
+,,SAL_MAEWUR3C1,Pseudomoans aeruginosa,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,SAL_MAEWUR3C2,Pseudomoans aeruginosa,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,SAL_MAEWUR3C3,Pseudomoans aeruginosa,,,,,,,,,,,,,,,R,>=8,R,>=8,R,,,1,S,<=2,S,<=1,S,,,,,1,I,<=0.5,S,,,,,,,,,,,,,3,9,0.3333
+,,SAL_MAEWUR3C4,Pseudomoans aeruginosa,,,,,,,,,,,,,,,R,>=8,R,>=8,R,,,1,S,<=2,S,<=1,S,,,,,0.5,S,<=0.5,S,,,,,,,,,,,,,3,9,0.3333
+,,SG_MAEWUR1C2,Pseudomoans aeruginosa,,,,,,,,,,,,,,,R,>=8,R,>=8,R,,,1,S,<=2,S,<=1,S,,,,,2,I,<=0.5,S,,,,,,,,,,,,,3,9,0.3333
+,,SG_MAEWUR2C4,Pseudomoans aeruginosa,,,,,,,,,,,,,,,R,>=8,R,>=8,R,,,1,S,<=2,S,<=1,S,,,,,1,I,<=0.5,S,,,,,,,,,,,,,3,9,0.3333
+,,SG_MAEWUR3C5,Pseudomoans aeruginosa,,,,,,,,,,,,,,,R,>=8,R,>=8,R,,,1,S,<=2,S,<=1,S,,,,,0.5,S,<=0.5,S,,,,,,,,,,,,,3,9,0.3333
+,,VCMAEWUR1C8,Vibrio cholerae,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,VCMAEWUR2C16,Vibrio fluvialis,NEG,>=32,R,>=32,R,,,,,,,,,,,>=8,R,>=8,R,,,<=0.25,S,<=3,S,>=16,R,,,,,1,S,1,S,,,8,I,>=16,R,,,8,S,>=320,R,6,13,0.4615
+,,EC_MAEWTR2C5,Escherichia coli,NEG,<=2,S,<=2,S,,S,<=4,S,4,S,<=0.25,S,,S,<=0.5,S,<=1,S,,S,<=0.25,S,<=2,S,<=1,S,<=2,S,,,<=0.12,S,<=0.5,S,<=0.12,S,1,S,<=1,S,<=16,S,4,S,<=20,S,0,22,0.0000
+,,EC_MAEWTR2C6,Escherichia coli,NEG,<=2,S,<=2,S,,S,<=4,S,4,S,<=0.25,S,,S,<=0.5,S,<=1,S,,S,<=0.25,S,<=2,S,<=1,S,<=2,S,,,<=0.12,S,<=0.5,S,<=0.12,S,1,S,<=1,S,<=16,S,4,S,<=20,S,0,22,0.0000
+,,EC_MAEWTR3C9,Escherichia coli,NEG,<=2,S,<=2,S,,S,<=4,S,4,S,<=0.25,S,,S,<=0.5,S,<=1,S,,S,<=0.25,S,<=2,S,<=1,S,<=2,S,,,<=0.12,S,<=0.5,S,<=0.12,S,8,I,>=16,R,<=16,S,4,S,<=20,S,3,22,0.1364
+,,EC_MAEWTR3C10,Escherichia coli,NEG,<=2,S,<=2,S,,S,<=4,S,4,S,<=0.25,S,,S,<=0.5,S,<=1,S,,S,<=0.25,S,<=2,S,<=1,S,<=2,S,,,<=0.12,S,<=0.5,S,<=0.12,S,8,I,>=16,R,<=16,S,4,S,<=20,S,3,22,0.1364
+,,EC_MAEWTR3C11,Escherichia coli,NEG,<=2,S,<=2,S,,S,<=4,S,4,S,<=0.25,S,,S,<=0.5,S,<=1,S,,S,<=0.25,S,<=2,S,<=1,S,<=2,S,,,<=0.12,S,<=0.5,S,<=0.12,S,4,S,>=16,R,<=16,S,4,S,<=20,S,3,22,0.1364
+,,SAL_MAEWTR3C1,Pseudomoans aeruginosa,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,SAL_MAEWTR3C2,Pseudomoans aeruginosa,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,SAL_MAEWTR3C3,Pseudomoans aeruginosa,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,SAL_MAEWTR3C4,Pseudomoans aeruginosa,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,SAL_MAEWTR3C5,Pseudomoans aeruginosa,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,SG_MAEWTR2C1,Pseudomoans aeruginosa,,,,,,,,,,,,,,,R,>=8,R,>=8,R,,,1,S,<=2,S,<=1,S,,,,,1,I,<=0.5,S,,,,,,,,,,,,,3,8,0.3750
+,,SG_MAEWTR2C3,Pseudomoans aeruginosa,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,SG_MAEWTR2C4,Pseudomoans aeruginosa,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,SG_MAEWTR3C3,Pseudomoans aeruginosa,,,,,,,,,,,,,,,R,>=8,R,>=8,R,,,1,S,<=2,S,<=1,S,,,,,2,I,<=0.5,S,,,,,,,,,,,,,3,8,0.3750
+,,SG_MAEWTR3C4,Pseudomoans aeruginosa,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,SG_MAEWTR3C5,Pseudomoans aeruginosa,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,SG_MAEWTR3C6,Pseudomoans aeruginosa,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
