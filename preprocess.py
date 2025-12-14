@@ -2,6 +2,7 @@ import copy
 import csv
 import os
 import re
+import sys
 from collections import Counter
 from typing import Dict, List, Tuple
 
@@ -24,6 +25,7 @@ SPECIES_CORRECTIONS = {
     "pseudomoans": "Pseudomonas",
     "pseudomoans aeruginosa": "Pseudomonas Aeruginosa",
     "vibrio cholarae": "Vibrio Cholerae",
+    "vibrio cholerae": "Vibrio Cholerae",
 }
 
 
@@ -176,7 +178,7 @@ def encode_record(record: Dict[str, str], antibiotics: List[str]) -> Dict[str, o
             num_resistant += 1
     encoded["num_antibiotics_tested"] = num_tested
     encoded["num_resistant"] = num_resistant
-    encoded["MAR_index"] = round(num_resistant / num_tested, 4) if num_tested else ""
+    encoded["MAR_index"] = round(num_resistant / num_tested, 4) if num_tested else 0.0
     if num_tested:
         encoded["MDR_flag"] = 1 if num_resistant >= 3 else 0
     else:
@@ -214,8 +216,10 @@ def write_summary(
         handle.write("\n".join(lines))
 
 
-def main() -> None:
-    csv_files = [f for f in os.listdir(".") if f.lower().endswith(".csv")]
+def main(input_dir: str = ".") -> None:
+    csv_files = [
+        os.path.join(input_dir, f) for f in os.listdir(input_dir) if f.lower().endswith(".csv")
+    ]
     ingested: List[Dict[str, str]] = []
     for file in csv_files:
         ingested.extend(load_records(file))
@@ -268,4 +272,5 @@ def main() -> None:
 
 
 if __name__ == "__main__":
-    main()
+    directory = sys.argv[1] if len(sys.argv) > 1 else "."
+    main(directory)
