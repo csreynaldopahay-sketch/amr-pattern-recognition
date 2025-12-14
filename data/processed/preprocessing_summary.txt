@@ -1,0 +1,46 @@
+Total isolates ingested: 584
+Duplicates removed: 2
+Isolates removed for missing data: 76
+Antibiotics retained (>= 50% coverage): AM, AMC, AN, C, CF, CFO, CFT, CN, CPD, CPT, CTX, CZA, DO, ENR, FT, GM, IPM, MRB, N, PRA, SXT, TE
+Antibiotic coverage:
+  - AM: 73.20%
+  - AMC: 86.94%
+  - AMI: 0.17%
+  - AMO: 0.00%
+  - AMP: 0.00%
+  - AN: 89.52%
+  - C: 89.00%
+  - CF: 84.54%
+  - CFA: 0.17%
+  - CFO: 89.35%
+  - CFP: 0.00%
+  - CFT: 89.00%
+  - CFV: 0.17%
+  - CFX: 0.00%
+  - CFZ: 0.00%
+  - CHL: 0.00%
+  - CN: 83.85%
+  - CPD: 84.54%
+  - CPT: 69.07%
+  - CTF: 0.17%
+  - CTX: 79.73%
+  - CZA: 82.47%
+  - DO: 85.91%
+  - DOX: 0.00%
+  - ENR: 89.00%
+  - FT: 84.71%
+  - GEN: 0.17%
+  - GM: 89.86%
+  - IME: 0.17%
+  - IPM: 89.86%
+  - MAR: 0.17%
+  - MRB: 89.69%
+  - N: 84.19%
+  - NAL: 0.00%
+  - NEO: 0.00%
+  - NIT: 0.00%
+  - NLA: 0.00%
+  - PRA: 84.54%
+  - SXT: 89.00%
+  - TE: 89.18%
+  - TET: 0.00%
