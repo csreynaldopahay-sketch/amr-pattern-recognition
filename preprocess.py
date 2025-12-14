@@ -75,7 +75,8 @@ def read_antibiotic_mapping(reader: csv.reader) -> List[Tuple[str, int]]:
     for idx, name in enumerate(antibiotic_row):
         if name.strip():
             current_ab = standardize_antibiotic_name(name)
-        if mic_row[idx].strip().upper() == "INT." and current_ab:
+        mic_token = mic_row[idx].strip().upper() if idx < len(mic_row) else ""
+        if mic_token == "INT." and current_ab:
             mapping.append((current_ab, idx))
     return mapping
 
