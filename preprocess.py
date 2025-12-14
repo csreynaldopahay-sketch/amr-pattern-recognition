@@ -22,6 +22,7 @@ METADATA_COLUMNS = [
 
 SPECIES_CORRECTIONS = {
     "pseudomoans": "Pseudomonas",
+    "pseudomoans aeruginosa": "Pseudomonas Aeruginosa",
     "vibrio cholarae": "Vibrio Cholerae",
 }
 
